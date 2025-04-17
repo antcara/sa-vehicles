@@ -1,0 +1,4162 @@
+[
+  {
+    "brand": "toyota",
+    "model": "coaster",
+    "variant": "Coaster 2.8D GL",
+    "variantSlug": "coaster-2-8d-gl",
+    "price": "R1,166,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:36"
+  },
+  {
+    "brand": "toyota",
+    "model": "coaster",
+    "variant": "Coaster 4.0D STD",
+    "variantSlug": "coaster-4-0d-std",
+    "price": "R1,088,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:36"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla",
+    "variant": "Corolla SD 1.8 XR HEV",
+    "variantSlug": "corolla-sd-1-8-xr-hev",
+    "price": "R575,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla",
+    "variant": "Corolla SD 1.8 XS HEV",
+    "variantSlug": "corolla-sd-1-8-xs-hev",
+    "price": "R554,800",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla",
+    "variant": "Corolla SD 2.0 XR",
+    "variantSlug": "corolla-sd-2-0-xr",
+    "price": "R565,100",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 GR-S",
+    "variantSlug": "corolla-cross-1-8-gr-s",
+    "price": "R518,200",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 HEV GR-S",
+    "variantSlug": "corolla-cross-1-8-hev-gr-s",
+    "price": "R561,700",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 HEV XR",
+    "variantSlug": "corolla-cross-1-8-hev-xr",
+    "price": "R545,200",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 HEV XS",
+    "variantSlug": "corolla-cross-1-8-hev-xs",
+    "price": "R494,400",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 Xi",
+    "variantSlug": "corolla-cross-1-8-xi",
+    "price": "R414,800",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 XR",
+    "variantSlug": "corolla-cross-1-8-xr",
+    "price": "R501,500",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla cross",
+    "variant": "COROLLA CROSS 1.8 XS",
+    "variantSlug": "corolla-cross-1-8-xs",
+    "price": "R452,200",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla hatch",
+    "variant": "Corolla HB 1.8 XR HEV",
+    "variantSlug": "corolla-hb-1-8-xr-hev",
+    "price": "R589,200",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla hatch",
+    "variant": "Corolla HB 1.8 XR HEV BT",
+    "variantSlug": "corolla-hb-1-8-xr-hev-bt",
+    "price": "R600,700",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla hatch",
+    "variant": "Corolla HB 1.8 XS HEV",
+    "variantSlug": "corolla-hb-1-8-xs-hev",
+    "price": "R547,200",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla hatch",
+    "variant": "Corolla HB 2.0 XR",
+    "variantSlug": "corolla-hb-2-0-xr",
+    "price": "R572,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "corolla hatch",
+    "variant": "Corolla HB 2.0 XR BT",
+    "variantSlug": "corolla-hb-2-0-xr-bt",
+    "price": "R584,000",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.4 GD-6 4X4 6AT",
+    "variantSlug": "2-4-gd-6-4x4-6at",
+    "price": "R739,100",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.4 GD-6 RB 6AT",
+    "variantSlug": "2-4-gd-6-rb-6at",
+    "price": "R705,800",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.4 GD-6 RB 6MT",
+    "variantSlug": "2-4-gd-6-rb-6mt",
+    "price": "R679,100",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 4X4 6AT",
+    "variantSlug": "2-8-gd-6-4x4-6at",
+    "price": "R907,700",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 4X4 6AT 48V",
+    "variantSlug": "2-8-gd-6-4x4-6at-48v",
+    "price": "R918,600",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 4x4 GR-S 6AT",
+    "variantSlug": "2-8-gd-6-4x4-gr-s-6at",
+    "price": "R999,000",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 4x4 VX 6AT",
+    "variantSlug": "2-8-gd-6-4x4-vx-6at",
+    "price": "R950,900",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 4x4 VX 6AT 48V",
+    "variantSlug": "2-8-gd-6-4x4-vx-6at-48v",
+    "price": "R961,800",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 RB 6AT",
+    "variantSlug": "2-8-gd-6-rb-6at",
+    "price": "R826,400",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 RB 6AT 48V",
+    "variantSlug": "2-8-gd-6-rb-6at-48v",
+    "price": "R834,800",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 RB VX 6AT",
+    "variantSlug": "2-8-gd-6-rb-vx-6at",
+    "price": "R870,900",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "fortuner",
+    "variant": "2.8 GD-6 RB VX 6AT 48V",
+    "variantSlug": "2-8-gd-6-rb-vx-6at-48v",
+    "price": "R879,300",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:33"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr corolla",
+    "variant": "GR Corolla 1.6T Circuit",
+    "variantSlug": "gr-corolla-1-6t-circuit",
+    "price": "R920,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr corolla",
+    "variant": "GR Corolla 1.6T Core",
+    "variantSlug": "gr-corolla-1-6t-core",
+    "price": "R857,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr supra",
+    "variant": "GR Supra MT",
+    "variantSlug": "gr-supra-mt",
+    "price": "R1,509,700",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr yaris",
+    "variant": "GR Yaris Rally",
+    "variantSlug": "gr-yaris-rally",
+    "price": "R857,100",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr86",
+    "variant": "GR86 6AT",
+    "variantSlug": "gr86-6at",
+    "price": "R850,800",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "gr86",
+    "variant": "GR86 6MT",
+    "variantSlug": "gr86-6mt",
+    "price": "R809,600",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "hiace",
+    "variant": "Hiace 2.5D GL bus 14's",
+    "variantSlug": "hiace-2-5d-gl-bus-14-s",
+    "price": "R740,400",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:36"
+  },
+  {
+    "brand": "toyota",
+    "model": "hiace ses'fikile",
+    "variant": "Hiace Ses fikile 2.5D 16s",
+    "variantSlug": "hiace-ses-fikile-2-5d-16s",
+    "price": "R577,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hiace ses'fikile",
+    "variant": "Hiace Ses fikile 2.7 16s",
+    "variantSlug": "hiace-ses-fikile-2-7-16s",
+    "price": "R543,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.4 GD-6 4X4 RAIDER 6AT",
+    "variantSlug": "2-4-gd-6-4x4-raider-6at",
+    "price": "R716,300",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.4 GD-6 4X4 RAIDER 6MT",
+    "variantSlug": "2-4-gd-6-4x4-raider-6mt",
+    "price": "R684,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.4 GD-6 4x4 SR 6MT",
+    "variantSlug": "2-4-gd-6-4x4-sr-6mt",
+    "price": "R657,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.4 GD-6 RB RAIDER 6AT",
+    "variantSlug": "2-4-gd-6-rb-raider-6at",
+    "price": "R633,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.4 GD-6 RB SR 6MT",
+    "variantSlug": "2-4-gd-6-rb-sr-6mt",
+    "price": "R572,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.7 VVTi RB 5MT",
+    "variantSlug": "2-7-vvti-rb-5mt",
+    "price": "R528,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 4X4 GR-S 6AT",
+    "variantSlug": "2-8-gd-6-4x4-gr-s-6at",
+    "price": "R999,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 4X4 LEGEND 6AT",
+    "variantSlug": "2-8-gd-6-4x4-legend-6at",
+    "price": "R909,400",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 4X4 LEGEND 6AT 48V",
+    "variantSlug": "2-8-gd-6-4x4-legend-6at-48v",
+    "price": "R921,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 4X4 RAIDER 6AT",
+    "variantSlug": "2-8-gd-6-4x4-raider-6at",
+    "price": "R858,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 4x4 RAIDER AT 48V",
+    "variantSlug": "2-8-gd-6-4x4-raider-at-48v",
+    "price": "R876,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 RB LEGEND 6AT",
+    "variantSlug": "2-8-gd-6-rb-legend-6at",
+    "price": "R859,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 RB RAIDER 6AT",
+    "variantSlug": "2-8-gd-6-rb-raider-6at",
+    "price": "R769,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux double cab",
+    "variant": "2.8 GD-6 RB RAIDER AT 48V",
+    "variantSlug": "2-8-gd-6-rb-raider-at-48v",
+    "price": "R785,400",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.0 VVTi S 5MT",
+    "variantSlug": "2-0-vvti-s-5mt",
+    "price": "R361,700",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.0 VVTi S A/C 5MT",
+    "variantSlug": "2-0-vvti-s-a-c-5mt",
+    "price": "R372,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD S 5MT",
+    "variantSlug": "2-4-gd-s-5mt",
+    "price": "R407,100",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD S A/C 5MT",
+    "variantSlug": "2-4-gd-s-a-c-5mt",
+    "price": "R417,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 4X4 RAIDER 6AT",
+    "variantSlug": "2-4-gd-6-4x4-raider-6at",
+    "price": "R649,700",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 4X4 RAIDER 6MT",
+    "variantSlug": "2-4-gd-6-4x4-raider-6mt",
+    "price": "R623,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 4X4 SR 6MT",
+    "variantSlug": "2-4-gd-6-4x4-sr-6mt",
+    "price": "R578,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 RB RAIDER 6AT",
+    "variantSlug": "2-4-gd-6-rb-raider-6at",
+    "price": "R566,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 RB RAIDER 6MT",
+    "variantSlug": "2-4-gd-6-rb-raider-6mt",
+    "price": "R542,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.4 GD-6 RB SR 6MT",
+    "variantSlug": "2-4-gd-6-rb-sr-6mt",
+    "price": "R502,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.7 VVTi RB S 5MT",
+    "variantSlug": "2-7-vvti-rb-s-5mt",
+    "price": "R464,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.8 GD-6 4X4 RAIDER 6AT",
+    "variantSlug": "2-8-gd-6-4x4-raider-6at",
+    "price": "R723,300",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux single cab",
+    "variant": "2.8 GD-6 RB RAIDER 6AT",
+    "variantSlug": "2-8-gd-6-rb-raider-6at",
+    "price": "R646,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.4 GD-6 RB RAIDER 6AT",
+    "variantSlug": "2-4-gd-6-rb-raider-6at",
+    "price": "R587,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.4 GD-6 RB RAIDER 6MT",
+    "variantSlug": "2-4-gd-6-rb-raider-6mt",
+    "price": "R563,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.8 GD-6 4X4 LEGEND 6AT",
+    "variantSlug": "2-8-gd-6-4x4-legend-6at",
+    "price": "R787,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.8 GD-6 4X4 LEGEND 6MT",
+    "variantSlug": "2-8-gd-6-4x4-legend-6mt",
+    "price": "R755,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.8 GD-6 RB LEGEND 6AT",
+    "variantSlug": "2-8-gd-6-rb-legend-6at",
+    "price": "R701,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "hilux xtra cab",
+    "variant": "2.8 GD-6 RB LEGEND 6MT",
+    "variantSlug": "2-8-gd-6-rb-legend-6mt",
+    "price": "R670,200",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 300",
+    "variant": "LC300 3.3D GR-S",
+    "variantSlug": "lc300-3-3d-gr-s",
+    "price": "R2,094,400",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 300",
+    "variant": "LC300 3.3D GX-R",
+    "variantSlug": "lc300-3-3d-gx-r",
+    "price": "R1,512,100",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 300",
+    "variant": "LC300 3.3D ZX",
+    "variantSlug": "lc300-3-3d-zx",
+    "price": "R2,037,600",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 300",
+    "variant": "LC300 3.5T GR-S",
+    "variantSlug": "lc300-3-5t-gr-s",
+    "price": "R2,130,000",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 300",
+    "variant": "LC300 3.5T ZX",
+    "variantSlug": "lc300-3-5t-zx",
+    "price": "R2,077,200",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 76",
+    "variant": "LC76 2.8 GD S/W AT",
+    "variantSlug": "lc76-2-8-gd-s-w-at",
+    "price": "R1,045,300",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 76",
+    "variant": "LC76 2.8 GD-6 SW",
+    "variantSlug": "lc76-2-8-gd-6-sw",
+    "price": "R1,013,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 76",
+    "variant": "LC76 2.8 GD-6 VX S/W AT",
+    "variantSlug": "lc76-2-8-gd-6-vx-s-w-at",
+    "price": "R1,141,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 76",
+    "variant": "LC78 4.2 D Wagon",
+    "variantSlug": "lc78-4-2-d-wagon",
+    "price": "R941,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 double cab",
+    "variant": "LC79 2.8 GD D/C AT",
+    "variantSlug": "lc79-2-8-gd-d-c-at",
+    "price": "R1,054,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 double cab",
+    "variant": "LC79 4.0 Petrol D/C",
+    "variantSlug": "lc79-4-0-petrol-d-c",
+    "price": "R903,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 double cab",
+    "variant": "LC79 4.2 D D/C",
+    "variantSlug": "lc79-4-2-d-d-c",
+    "price": "R962,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 double cab",
+    "variant": "LC79 4.5 V8 D/C",
+    "variantSlug": "lc79-4-5-v8-d-c",
+    "price": "R1,086,400",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 single cab",
+    "variant": "LC79 2.8 GD-6 S/C AT",
+    "variantSlug": "lc79-2-8-gd-6-s-c-at",
+    "price": "R958,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 single cab",
+    "variant": "LC79 2.8 GD-6 S/C MT",
+    "variantSlug": "lc79-2-8-gd-6-s-c-mt",
+    "price": "R927,300",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 single cab",
+    "variant": "LC79 4.0 P S/C",
+    "variantSlug": "lc79-4-0-p-s-c",
+    "price": "R800,300",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 single cab",
+    "variant": "LC79 4.2 D S/C",
+    "variantSlug": "lc79-4-2-d-s-c",
+    "price": "R866,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser 79 single cab",
+    "variant": "LC79 4.5 V8 S/C",
+    "variantSlug": "lc79-4-5-v8-s-c",
+    "price": "R999,600",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser prado",
+    "variant": "Prado 2.8GD TX",
+    "variantSlug": "prado-2-8gd-tx",
+    "price": "R1,328,900",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "land cruiser prado",
+    "variant": "Prado 2.8GD VX -R",
+    "variantSlug": "prado-2-8gd-vx-r",
+    "price": "R1,485,300",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum bus",
+    "variant": "Quantum 2.8 LWB GL 11-s",
+    "variantSlug": "quantum-2-8-lwb-gl-11-s",
+    "price": "R845,700",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum bus",
+    "variant": "Quantum 2.8 LWB VX 6-s",
+    "variantSlug": "quantum-2-8-lwb-vx-6-s",
+    "price": "R1,236,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum bus",
+    "variant": "Quantum 2.8 LWB VX 9-s",
+    "variantSlug": "quantum-2-8-lwb-vx-9-s",
+    "price": "R1,241,400",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum bus",
+    "variant": "Quantum 2.8 SLWB GL 14-s",
+    "variantSlug": "quantum-2-8-slwb-gl-14-s",
+    "price": "R864,800",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum bus",
+    "variant": "Quantum 2.8 SLWB GL 14-s AT",
+    "variantSlug": "quantum-2-8-slwb-gl-14-s-at",
+    "price": "R884,900",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum panel van",
+    "variant": "Quantum 2.8 LWB CC 6-s",
+    "variantSlug": "quantum-2-8-lwb-cc-6-s",
+    "price": "R741,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum panel van",
+    "variant": "Quantum 2.8 LWB PV 3-s",
+    "variantSlug": "quantum-2-8-lwb-pv-3-s",
+    "price": "R741,000",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "quantum panel van",
+    "variant": "Quantum 2.8 SLWB PV 3-s",
+    "variantSlug": "quantum-2-8-slwb-pv-3-s",
+    "price": "R793,500",
+    "vehicleType": "LCV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.0 GX-R CVT AWD",
+    "variantSlug": "rav4-2-0-gx-r-cvt-awd",
+    "price": "R712,700",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.0 GX-R CVT AWD BT",
+    "variantSlug": "rav4-2-0-gx-r-cvt-awd-bt",
+    "price": "R724,000",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.0 VX CVT 2WD",
+    "variantSlug": "rav4-2-0-vx-cvt-2wd",
+    "price": "R726,800",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.5 GX-R HEV E-FOUR",
+    "variantSlug": "rav4-2-5-gx-r-hev-e-four",
+    "price": "R756,200",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.5 GX-R HEV E-FOUR BT",
+    "variantSlug": "rav4-2-5-gx-r-hev-e-four-bt",
+    "price": "R767,400",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.5 VX AT AWD",
+    "variantSlug": "rav4-2-5-vx-at-awd",
+    "price": "R825,900",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "rav4",
+    "variant": "RAV4 2.5 VX HEV E-FOUR",
+    "variantSlug": "rav4-2-5-vx-hev-e-four",
+    "price": "R850,000",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "starlet cross",
+    "variant": "Starlet Cross 1.5L XR AT",
+    "variantSlug": "starlet-cross-1-5l-xr-at",
+    "price": "R368,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "starlet cross",
+    "variant": "Starlet Cross 1.5L XR MT",
+    "variantSlug": "starlet-cross-1-5l-xr-mt",
+    "price": "R347,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "starlet cross",
+    "variant": "Starlet Cross 1.5L Xs AT",
+    "variantSlug": "starlet-cross-1-5l-xs-at",
+    "price": "R330,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "starlet cross",
+    "variant": "Starlet Cross 1.5L Xs MT",
+    "variantSlug": "starlet-cross-1-5l-xs-mt",
+    "price": "R299,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:35"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota rumion",
+    "variant": "Toyota Rumion 1.5 S MT",
+    "variantSlug": "toyota-rumion-1-5-s-mt",
+    "price": "R301,400",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota rumion",
+    "variant": "Toyota Rumion 1.5 SX AT",
+    "variantSlug": "toyota-rumion-1-5-sx-at",
+    "price": "R360,600",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota rumion",
+    "variant": "Toyota Rumion 1.5 SX MT",
+    "variantSlug": "toyota-rumion-1-5-sx-mt",
+    "price": "R341,000",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota rumion",
+    "variant": "Toyota Rumion 1.5 TX AT",
+    "variantSlug": "toyota-rumion-1-5-tx-at",
+    "price": "R390,300",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota rumion",
+    "variant": "Toyota Rumion 1.5 TX MT",
+    "variantSlug": "toyota-rumion-1-5-tx-mt",
+    "price": "R369,700",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota starlet",
+    "variant": "Starlet 1.5L Xi MT",
+    "variantSlug": "starlet-1-5l-xi-mt",
+    "price": "R258,000",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota starlet",
+    "variant": "Starlet 1.5L XR AT",
+    "variantSlug": "starlet-1-5l-xr-at",
+    "price": "R340,700",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota starlet",
+    "variant": "Starlet 1.5L XR MT",
+    "variantSlug": "starlet-1-5l-xr-mt",
+    "price": "R320,800",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota starlet",
+    "variant": "Starlet 1.5L Xs AT",
+    "variantSlug": "starlet-1-5l-xs-at",
+    "price": "R298,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota starlet",
+    "variant": "Starlet 1.5L Xs MT",
+    "variantSlug": "starlet-1-5l-xs-mt",
+    "price": "R273,500",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota vitz",
+    "variant": "Toyota Vitz 1.0 MT",
+    "variantSlug": "toyota-vitz-1-0-mt",
+    "price": "R178,800",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota vitz",
+    "variant": "Toyota Vitz 1.0 XR AMT",
+    "variantSlug": "toyota-vitz-1-0-xr-amt",
+    "price": "R224,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "toyota vitz",
+    "variant": "Toyota Vitz 1.0 XR MT",
+    "variantSlug": "toyota-vitz-1-0-xr-mt",
+    "price": "R209,900",
+    "vehicleType": "PASSENGER",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "urban cruiser",
+    "variant": "Urban Cruiser 1.5 XR AT",
+    "variantSlug": "urban-cruiser-1-5-xr-at",
+    "price": "R382,900",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "urban cruiser",
+    "variant": "Urban Cruiser 1.5 XR MT",
+    "variantSlug": "urban-cruiser-1-5-xr-mt",
+    "price": "R359,700",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "toyota",
+    "model": "urban cruiser",
+    "variant": "Urban Cruiser 1.5 Xs MT",
+    "variantSlug": "urban-cruiser-1-5-xs-mt",
+    "price": "R342,500",
+    "vehicleType": "SUV",
+    "url": "https://www.toyota.co.za/toyota-price-list",
+    "timestamp": "07-Apr-2025 11:09:34"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "2.0L BIT Sport 4x2 10AT",
+    "variantSlug": "2-0l-bit-sport-4x2-10at",
+    "price": "R1,029,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "2.0L BIT Sport 4x4 10AT",
+    "variantSlug": "2-0l-bit-sport-4x4-10at",
+    "price": "R1,109,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "2.0L BIT XLT 4x2 10AT",
+    "variantSlug": "2-0l-bit-xlt-4x2-10at",
+    "price": "R942,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "2.0L BIT XLT 4x4 10AT",
+    "variantSlug": "2-0l-bit-xlt-4x4-10at",
+    "price": "R1,017,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "3.0L V6 Platinum 4WD 10AT",
+    "variantSlug": "3-0l-v6-platinum-4wd-10at",
+    "price": "R1,309,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "everest",
+    "variant": "3.0L V6 Wildtrak 4WD 10AT",
+    "variantSlug": "3-0l-v6-wildtrak-4wd-10at",
+    "price": "R1,230,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "mustang",
+    "variant": "5.0L V8 DARK HORSE 10AT",
+    "variantSlug": "5-0l-v8-dark-horse-10at",
+    "price": "R1,508,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "mustang",
+    "variant": "5.0L V8 GT FASTBACK 10AT",
+    "variantSlug": "5-0l-v8-gt-fastback-10at",
+    "price": "R1,307,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "puma",
+    "variant": "1.0L ST-Line Vignale 7AT",
+    "variantSlug": "1-0l-st-line-vignale-7at",
+    "price": "R617,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "puma",
+    "variant": "1.0L Titanium 7AT",
+    "variantSlug": "1-0l-titanium-7at",
+    "price": "R573,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC Tremor 4WD 10AT",
+    "variantSlug": "2-0l-bit-dc-tremor-4wd-10at",
+    "price": "R1,008,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC Wildtrak 4x2 10AT",
+    "variantSlug": "2-0l-bit-dc-wildtrak-4x2-10at",
+    "price": "R895,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC Wildtrak 4x4 10AT",
+    "variantSlug": "2-0l-bit-dc-wildtrak-4x4-10at",
+    "price": "R983,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC Wildtrak X 4WD 10AT",
+    "variantSlug": "2-0l-bit-dc-wildtrak-x-4wd-10at",
+    "price": "R1,070,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC XLT 4x2 10AT",
+    "variantSlug": "2-0l-bit-dc-xlt-4x2-10at",
+    "price": "R801,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT DC XLT 4x4 10AT",
+    "variantSlug": "2-0l-bit-dc-xlt-4x4-10at",
+    "price": "R888,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT SUP Wildtrak 4x4 10AT",
+    "variantSlug": "2-0l-bit-sup-wildtrak-4x4-10at",
+    "price": "R841,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L BIT SUP XLT 4x4 10AT",
+    "variantSlug": "2-0l-bit-sup-xlt-4x4-10at",
+    "price": "R775,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XL 4x2 6AT",
+    "variantSlug": "2-0l-sit-dc-xl-4x2-6at",
+    "price": "R644,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XL 4x2 6MT",
+    "variantSlug": "2-0l-sit-dc-xl-4x2-6mt",
+    "price": "R620,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XL 4x4 6AT",
+    "variantSlug": "2-0l-sit-dc-xl-4x4-6at",
+    "price": "R729,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XL 4x4 6MT",
+    "variantSlug": "2-0l-sit-dc-xl-4x4-6mt",
+    "price": "R703,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XLT 4x2 6AT",
+    "variantSlug": "2-0l-sit-dc-xlt-4x2-6at",
+    "price": "R681,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT DC XLT 4x4 6AT",
+    "variantSlug": "2-0l-sit-dc-xlt-4x4-6at",
+    "price": "R766,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SC XL 4x2 6AT",
+    "variantSlug": "2-0l-sit-sc-xl-4x2-6at",
+    "price": "R574,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SC XL 4x4 6AT",
+    "variantSlug": "2-0l-sit-sc-xl-4x4-6at",
+    "price": "R648,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SC XL 4x4 6MT",
+    "variantSlug": "2-0l-sit-sc-xl-4x4-6mt",
+    "price": "R627,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SUP XL 4x2 6AT",
+    "variantSlug": "2-0l-sit-sup-xl-4x2-6at",
+    "price": "R585,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SUP XL 4x4 6AT",
+    "variantSlug": "2-0l-sit-sup-xl-4x4-6at",
+    "price": "R633,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "2.0L SIT SUP XLT 4x2 6AT",
+    "variantSlug": "2-0l-sit-sup-xlt-4x2-6at",
+    "price": "R622,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "3.0L V6 DC Platinum 4WD 10AT",
+    "variantSlug": "3-0l-v6-dc-platinum-4wd-10at",
+    "price": "R1,150,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "3.0L V6 DC Wildtrak 4WD 10AT",
+    "variantSlug": "3-0l-v6-dc-wildtrak-4wd-10at",
+    "price": "R1,087,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "ranger",
+    "variant": "3.0L V6 EcoBoost Raptor 4WD 10AT",
+    "variantSlug": "3-0l-v6-ecoboost-raptor-4wd-10at",
+    "price": "R1,270,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "territory",
+    "variant": "1.8L Ambiente 7AT",
+    "variantSlug": "1-8l-ambiente-7at",
+    "price": "R593,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "territory",
+    "variant": "1.8L Titanium 7AT",
+    "variantSlug": "1-8l-titanium-7at",
+    "price": "R725,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "territory",
+    "variant": "1.8L Trend 7AT",
+    "variantSlug": "1-8l-trend-7at",
+    "price": "R650,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "tourneo",
+    "variant": "Custom 2.0L LWB Bus Active 8AT",
+    "variantSlug": "custom-2-0l-lwb-bus-active-8at",
+    "price": "R1,063,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "tourneo",
+    "variant": "Custom 2.0L LWB Bus Trend 8AT",
+    "variantSlug": "custom-2-0l-lwb-bus-trend-8at",
+    "price": "R1,104,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "transit",
+    "variant": "2.2TDCI ELWB Van Ambiente 6MT",
+    "variantSlug": "2-2tdci-elwb-van-ambiente-6mt",
+    "price": "R969,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "transit",
+    "variant": "2.2TDCI MWB Van Ambiente 6MT",
+    "variantSlug": "2-2tdci-mwb-van-ambiente-6mt",
+    "price": "R773,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "transit",
+    "variant": "Custom 2.0L LWB Van Base 6MT",
+    "variantSlug": "custom-2-0l-lwb-van-base-6mt",
+    "price": "R761,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "transit",
+    "variant": "Custom 2.0L SWB Van Sport 8AT",
+    "variantSlug": "custom-2-0l-swb-van-sport-8at",
+    "price": "R938,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "ford",
+    "model": "transit",
+    "variant": "Panel Van 2.0L 350 LWB 8AT",
+    "variantSlug": "panel-van-2-0l-350-lwb-8at",
+    "price": "R1,000,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.ford.co.za/buying/price-list/",
+    "timestamp": "07-Apr-2025 10:52:22"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10",
+    "variant": "Grand i10 1.0 Premium Manual",
+    "variantSlug": "grand-i10-1-0-premium-manual",
+    "price": "R224,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/grand%20i10",
+    "timestamp": "07-Apr-2025 11:01:23"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10",
+    "variant": "Grand i10 1.0 Executive Manual",
+    "variantSlug": "grand-i10-1-0-executive-manual",
+    "price": "R269,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/grand%20i10",
+    "timestamp": "07-Apr-2025 11:01:23"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10",
+    "variant": "Grand i10 1.2 Premium Auto",
+    "variantSlug": "grand-i10-1-2-premium-auto",
+    "price": "R269,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/grand%20i10",
+    "timestamp": "07-Apr-2025 11:01:23"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "variant": "i20 1.2 Premium Manual",
+    "variantSlug": "i20-1-2-premium-manual",
+    "price": "R309,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/i20",
+    "timestamp": "07-Apr-2025 11:01:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "variant": "i20 1.2 Executive Manual",
+    "variantSlug": "i20-1-2-executive-manual",
+    "price": "R329,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/i20",
+    "timestamp": "07-Apr-2025 11:01:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "variant": "i20 1.4 Premium Auto",
+    "variantSlug": "i20-1-4-premium-auto",
+    "price": "R329,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/i20",
+    "timestamp": "07-Apr-2025 11:01:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "variant": "i20 1.4 Executive Auto",
+    "variantSlug": "i20-1-4-executive-auto",
+    "price": "R349,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/i20",
+    "timestamp": "07-Apr-2025 11:01:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i20",
+    "variant": "i20 1.0 T N-Line",
+    "variantSlug": "i20-1-0-t-n-line",
+    "price": "R467,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/hatchback/i20",
+    "timestamp": "07-Apr-2025 11:01:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10 cargo",
+    "variant": "1.0 Cargo Premium Cargo MT",
+    "variantSlug": "1-0-cargo-premium-cargo-mt",
+    "price": "R249,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/grand%20i10%20cargo",
+    "timestamp": "07-Apr-2025 11:02:53"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100  chassis cab",
+    "variant": "2.6 Euro II C/C",
+    "variantSlug": "2-6-euro-ii-c-c",
+    "price": "R367,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:37"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100  chassis cab",
+    "variant": "2.6 EURO II C/C A/C",
+    "variantSlug": "2-6-euro-ii-c-c-a-c",
+    "price": "R391,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:37"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100 deck",
+    "variant": "2.6 Euro II Deck",
+    "variantSlug": "2-6-euro-ii-deck",
+    "price": "R389,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20deck",
+    "timestamp": "07-Apr-2025 11:03:42"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100 deck",
+    "variant": "2.6 Euro II Deck A/C",
+    "variantSlug": "2-6-euro-ii-deck-a-c",
+    "price": "R412,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20deck",
+    "timestamp": "07-Apr-2025 11:03:42"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100 tipper",
+    "variant": "2.6 Euro II Deck Tipper",
+    "variantSlug": "2-6-euro-ii-deck-tipper",
+    "price": "R431,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20tipper",
+    "timestamp": "07-Apr-2025 11:03:59"
+  },
+  {
+    "brand": "hyundai",
+    "model": "h-100 tipper",
+    "variant": "2.6 EURO II Deck A/C Tipper",
+    "variantSlug": "2-6-euro-ii-deck-a-c-tipper",
+    "price": "R455,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/h-100%20tipper",
+    "timestamp": "07-Apr-2025 11:03:59"
+  },
+  {
+    "brand": "hyundai",
+    "model": "staria panelvan",
+    "variant": "R2.2 3str Panelvan",
+    "variantSlug": "r2-2-3str-panelvan",
+    "price": "R669,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/staria%20panelvan",
+    "timestamp": "07-Apr-2025 11:04:53"
+  },
+  {
+    "brand": "hyundai",
+    "model": "venue cargo",
+    "variant": "Venue 1.2 Cargo MT",
+    "variantSlug": "venue-1-2-cargo-mt",
+    "price": "R321,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/lcv/venue%20cargo",
+    "timestamp": "07-Apr-2025 11:05:09"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 chassis cab",
+    "variant": "LWB C/C",
+    "variantSlug": "lwb-c-c",
+    "price": "R581,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 chassis cab",
+    "variant": "SWB C/C",
+    "variantSlug": "swb-c-c",
+    "price": "R581,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 chassis cab",
+    "variant": "LWB C/C A/C",
+    "variantSlug": "lwb-c-c-a-c",
+    "price": "R606,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 chassis cab",
+    "variant": "SWB C/C A/C",
+    "variantSlug": "swb-c-c-a-c",
+    "price": "R606,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 chassis cab",
+    "variant": "SWB Tipper",
+    "variantSlug": "swb-tipper",
+    "price": "R679,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20chassis%20cab",
+    "timestamp": "07-Apr-2025 11:01:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 dropside",
+    "variant": "Dropside",
+    "variantSlug": "dropside",
+    "price": "R632,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20dropside",
+    "timestamp": "07-Apr-2025 11:04:15"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 dropside",
+    "variant": "Dropside A/C",
+    "variantSlug": "dropside-a-c",
+    "price": "R656,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20dropside",
+    "timestamp": "07-Apr-2025 11:04:15"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 tipper",
+    "variant": "EX-8 Tipper",
+    "variantSlug": "ex-8-tipper",
+    "price": "R679,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20tipper",
+    "timestamp": "07-Apr-2025 11:05:52"
+  },
+  {
+    "brand": "hyundai",
+    "model": "ex-8 van body",
+    "variant": "EX8 Van Body",
+    "variantSlug": "ex8-van-body",
+    "price": "Price on Request",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mcv/ex-8%20van%20body",
+    "timestamp": "07-Apr-2025 11:04:36"
+  },
+  {
+    "brand": "hyundai",
+    "model": "staria",
+    "variant": "R2.2 9str Executive Bus AT",
+    "variantSlug": "r2-2-9str-executive-bus-at",
+    "price": "R909,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mpv/staria",
+    "timestamp": "07-Apr-2025 11:03:09"
+  },
+  {
+    "brand": "hyundai",
+    "model": "staria",
+    "variant": "R2.2 11str Executive Bus AT",
+    "variantSlug": "r2-2-11str-executive-bus-at",
+    "price": "R921,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mpv/staria",
+    "timestamp": "07-Apr-2025 11:03:09"
+  },
+  {
+    "brand": "hyundai",
+    "model": "staria",
+    "variant": "R2.2 9str Elite Bus AT",
+    "variantSlug": "r2-2-9str-elite-bus-at",
+    "price": "R1,050,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mpv/staria",
+    "timestamp": "07-Apr-2025 11:03:09"
+  },
+  {
+    "brand": "hyundai",
+    "model": "staria",
+    "variant": "R2.2 9str Luxury Bus AT",
+    "variantSlug": "r2-2-9str-luxury-bus-at",
+    "price": "R1,263,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/mpv/staria",
+    "timestamp": "07-Apr-2025 11:03:09"
+  },
+  {
+    "brand": "hyundai",
+    "model": "i30 n",
+    "variant": "i30 N 2.0 T-GDI",
+    "variantSlug": "i30-n-2-0-t-gdi",
+    "price": "R848,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/performance/i30%20n",
+    "timestamp": "07-Apr-2025 11:02:24"
+  },
+  {
+    "brand": "hyundai",
+    "model": "kona n",
+    "variant": "KONA 2.0 N DCT",
+    "variantSlug": "kona-2-0-n-dct",
+    "price": "R848,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/performance/kona%20n",
+    "timestamp": "07-Apr-2025 11:03:26"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10 sedan",
+    "variant": "Grand i10 1.2 Executive Sedan MT",
+    "variantSlug": "grand-i10-1-2-executive-sedan-mt",
+    "price": "R279,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/sedan/grand%20i10%20sedan",
+    "timestamp": "07-Apr-2025 11:05:25"
+  },
+  {
+    "brand": "hyundai",
+    "model": "grand i10 sedan",
+    "variant": "Grand i10 1.2 Executive Sedan AT",
+    "variantSlug": "grand-i10-1-2-executive-sedan-at",
+    "price": "R309,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/sedan/grand%20i10%20sedan",
+    "timestamp": "07-Apr-2025 11:05:25"
+  },
+  {
+    "brand": "hyundai",
+    "model": "creta",
+    "variant": "Creta 1.5 Premium MT",
+    "variantSlug": "creta-1-5-premium-mt",
+    "price": "R449,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/creta",
+    "timestamp": "07-Apr-2025 11:00:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "creta",
+    "variant": "Creta 1.5 Premium IVT",
+    "variantSlug": "creta-1-5-premium-ivt",
+    "price": "R479,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/creta",
+    "timestamp": "07-Apr-2025 11:00:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "creta",
+    "variant": "Creta 1.5 Premium IVT Matte Edition",
+    "variantSlug": "creta-1-5-premium-ivt-matte-edition",
+    "price": "R484,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/creta",
+    "timestamp": "07-Apr-2025 11:00:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "creta",
+    "variant": "Creta 1.5 Executive IVT",
+    "variantSlug": "creta-1-5-executive-ivt",
+    "price": "R519,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/creta",
+    "timestamp": "07-Apr-2025 11:00:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "creta",
+    "variant": "Creta 1.5 Executive IVT Matte Edition",
+    "variantSlug": "creta-1-5-executive-ivt-matte-edition",
+    "price": "R524,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/creta",
+    "timestamp": "07-Apr-2025 11:00:54"
+  },
+  {
+    "brand": "hyundai",
+    "model": "exter",
+    "variant": "Exter 1.2 Premium MT",
+    "variantSlug": "exter-1-2-premium-mt",
+    "price": "R269,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/exter",
+    "timestamp": "07-Apr-2025 11:05:38"
+  },
+  {
+    "brand": "hyundai",
+    "model": "exter",
+    "variant": "Exter 1.2 Executive MT",
+    "variantSlug": "exter-1-2-executive-mt",
+    "price": "R289,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/exter",
+    "timestamp": "07-Apr-2025 11:05:38"
+  },
+  {
+    "brand": "hyundai",
+    "model": "exter",
+    "variant": "Exter 1.2 Premium AMT",
+    "variantSlug": "exter-1-2-premium-amt",
+    "price": "R294,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/exter",
+    "timestamp": "07-Apr-2025 11:05:38"
+  },
+  {
+    "brand": "hyundai",
+    "model": "exter",
+    "variant": "Exter 1.2 Executive AMT",
+    "variantSlug": "exter-1-2-executive-amt",
+    "price": "R314,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/exter",
+    "timestamp": "07-Apr-2025 11:05:38"
+  },
+  {
+    "brand": "hyundai",
+    "model": "exter",
+    "variant": "Exter 1.2 Elite AMT Two Tone",
+    "variantSlug": "exter-1-2-elite-amt-two-tone",
+    "price": "R334,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/exter",
+    "timestamp": "07-Apr-2025 11:05:38"
+  },
+  {
+    "brand": "hyundai",
+    "model": "palisade",
+    "variant": "R2.2 Elite 7 Seater 8AT AWD",
+    "variantSlug": "r2-2-elite-7-seater-8at-awd",
+    "price": "R1,204,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/palisade",
+    "timestamp": "07-Apr-2025 11:02:39"
+  },
+  {
+    "brand": "hyundai",
+    "model": "tucson",
+    "variant": "Tucson Premium AT",
+    "variantSlug": "tucson-premium-at",
+    "price": "R559,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/tucson",
+    "timestamp": "07-Apr-2025 11:06:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "tucson",
+    "variant": "Tucson 2.0 Executive Diesel AT MY25",
+    "variantSlug": "tucson-2-0-executive-diesel-at-my25",
+    "price": "R709,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/tucson",
+    "timestamp": "07-Apr-2025 11:06:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "tucson",
+    "variant": "Tucson 2.0 N Line Diesel AT AWD",
+    "variantSlug": "tucson-2-0-n-line-diesel-at-awd",
+    "price": "R859,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/tucson",
+    "timestamp": "07-Apr-2025 11:06:07"
+  },
+  {
+    "brand": "hyundai",
+    "model": "venue",
+    "variant": "Venue 1.2 Premium MT",
+    "variantSlug": "venue-1-2-premium-mt",
+    "price": "R309,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/venue",
+    "timestamp": "07-Apr-2025 11:02:08"
+  },
+  {
+    "brand": "hyundai",
+    "model": "venue",
+    "variant": "Venue 1.0T Executive DCT",
+    "variantSlug": "venue-1-0t-executive-dct",
+    "price": "R419,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/venue",
+    "timestamp": "07-Apr-2025 11:02:08"
+  },
+  {
+    "brand": "hyundai",
+    "model": "venue",
+    "variant": "1.0 TGDI N-Line DCT",
+    "variantSlug": "1-0-tgdi-n-line-dct",
+    "price": "R499,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.hyundai.co.za/new-vehicles/showroom/suv/venue",
+    "timestamp": "07-Apr-2025 11:02:08"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "DC Amarok",
+    "variantSlug": "dc-amarok",
+    "price": "R664,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "DC Aventura",
+    "variantSlug": "dc-aventura",
+    "price": "R1,237,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "DC Life",
+    "variantSlug": "dc-life",
+    "price": "R702,700",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "DC PanAmericana",
+    "variantSlug": "dc-panamericana",
+    "price": "R1,081,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "DC Style",
+    "variantSlug": "dc-style",
+    "price": "R966,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "amarok",
+    "variant": "SC Amarok",
+    "variantSlug": "sc-amarok",
+    "price": "R588,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/amarok.html",
+    "timestamp": "07-Apr-2025 11:22:13"
+  },
+  {
+    "brand": "vw",
+    "model": "caddy",
+    "variant": "5-seater",
+    "variantSlug": "5-seater",
+    "price": "R544,200",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caddy-5.html",
+    "timestamp": "07-Apr-2025 11:23:14"
+  },
+  {
+    "brand": "vw",
+    "model": "caddy",
+    "variant": "7-seater",
+    "variantSlug": "7-seater",
+    "price": "R673,300",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caddy-5.html",
+    "timestamp": "07-Apr-2025 11:23:14"
+  },
+  {
+    "brand": "vw",
+    "model": "caddy cargo",
+    "variant": "Cargo",
+    "variantSlug": "cargo",
+    "price": "R459,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caddy-5-cargo.html",
+    "timestamp": "07-Apr-2025 11:24:17"
+  },
+  {
+    "brand": "vw",
+    "model": "caddy kombi",
+    "variant": "Kombi 5-seater",
+    "variantSlug": "kombi-5-seater",
+    "price": "R566,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caddy-5-kombi.html",
+    "timestamp": "07-Apr-2025 11:25:22"
+  },
+  {
+    "brand": "vw",
+    "model": "caddy kombi",
+    "variant": "Kombi 7-seater",
+    "variantSlug": "kombi-7-seater",
+    "price": "R465,700",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caddy-5-kombi.html",
+    "timestamp": "07-Apr-2025 11:25:22"
+  },
+  {
+    "brand": "vw",
+    "model": "caravelle 6.1",
+    "variant": "Highline",
+    "variantSlug": "highline",
+    "price": "R1,603,200",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/caravelle.html",
+    "timestamp": "07-Apr-2025 11:27:26"
+  },
+  {
+    "brand": "vw",
+    "model": "crafter",
+    "variant": "Panel Van (LCV)",
+    "variantSlug": "panel-van-lcv",
+    "price": "R942,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/crafter.html",
+    "timestamp": "07-Apr-2025 11:28:29"
+  },
+  {
+    "brand": "vw",
+    "model": "crafter",
+    "variant": "Panel Van (MCV)",
+    "variantSlug": "panel-van-mcv",
+    "price": "R817,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/crafter.html",
+    "timestamp": "07-Apr-2025 11:28:29"
+  },
+  {
+    "brand": "vw",
+    "model": "golf",
+    "variant": "GTI",
+    "variantSlug": "gti",
+    "price": "R853,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/golf8-gti.html",
+    "timestamp": "07-Apr-2025 11:14:54"
+  },
+  {
+    "brand": "vw",
+    "model": "golf",
+    "variant": "R",
+    "variantSlug": "r",
+    "price": "R1,016,600",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/golf8-gti.html",
+    "timestamp": "07-Apr-2025 11:14:54"
+  },
+  {
+    "brand": "vw",
+    "model": "kombi 6.1",
+    "variant": "Trendline",
+    "variantSlug": "trendline",
+    "price": "R921,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/kombi.html",
+    "timestamp": "07-Apr-2025 11:26:25"
+  },
+  {
+    "brand": "vw",
+    "model": "kombi 6.1",
+    "variant": "Trendline Plus",
+    "variantSlug": "trendline-plus",
+    "price": "R1,175,600",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/kombi.html",
+    "timestamp": "07-Apr-2025 11:26:25"
+  },
+  {
+    "brand": "vw",
+    "model": "new polo vivo hatch",
+    "variant": "GT",
+    "variantSlug": "gt",
+    "price": "R363,100",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo-vivo.html",
+    "timestamp": "07-Apr-2025 11:10:41"
+  },
+  {
+    "brand": "vw",
+    "model": "new polo vivo hatch",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R294,300",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo-vivo.html",
+    "timestamp": "07-Apr-2025 11:10:41"
+  },
+  {
+    "brand": "vw",
+    "model": "new polo vivo hatch",
+    "variant": "Style",
+    "variantSlug": "style",
+    "price": "R324,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo-vivo.html",
+    "timestamp": "07-Apr-2025 11:10:41"
+  },
+  {
+    "brand": "vw",
+    "model": "new polo vivo hatch",
+    "variant": "Vivo",
+    "variantSlug": "vivo",
+    "price": "R271,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo-vivo.html",
+    "timestamp": "07-Apr-2025 11:10:41"
+  },
+  {
+    "brand": "vw",
+    "model": "new t-cross",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R471,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/t-cross.html",
+    "timestamp": "07-Apr-2025 11:15:42"
+  },
+  {
+    "brand": "vw",
+    "model": "new t-cross",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R543,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/t-cross.html",
+    "timestamp": "07-Apr-2025 11:15:42"
+  },
+  {
+    "brand": "vw",
+    "model": "new t-cross",
+    "variant": "Style",
+    "variantSlug": "style",
+    "price": "R511,300",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/t-cross.html",
+    "timestamp": "07-Apr-2025 11:15:42"
+  },
+  {
+    "brand": "vw",
+    "model": "new t-cross",
+    "variant": "T-Cross",
+    "variantSlug": "t-cross",
+    "price": "R399,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/t-cross.html",
+    "timestamp": "07-Apr-2025 11:15:42"
+  },
+  {
+    "brand": "vw",
+    "model": "new tiguan",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R716,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan.html",
+    "timestamp": "07-Apr-2025 11:18:58"
+  },
+  {
+    "brand": "vw",
+    "model": "new tiguan",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R781,600",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan.html",
+    "timestamp": "07-Apr-2025 11:18:58"
+  },
+  {
+    "brand": "vw",
+    "model": "new tiguan",
+    "variant": "Tiguan",
+    "variantSlug": "tiguan",
+    "price": "R664,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan.html",
+    "timestamp": "07-Apr-2025 11:18:58"
+  },
+  {
+    "brand": "vw",
+    "model": "new touareg",
+    "variant": "Elegance",
+    "variantSlug": "elegance",
+    "price": "R1,491,300",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/touareg.html",
+    "timestamp": "07-Apr-2025 11:21:08"
+  },
+  {
+    "brand": "vw",
+    "model": "new touareg",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R1,799,200",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/touareg.html",
+    "timestamp": "07-Apr-2025 11:21:08"
+  },
+  {
+    "brand": "vw",
+    "model": "polo",
+    "variant": "GTI",
+    "variantSlug": "gti",
+    "price": "R585,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo.html",
+    "timestamp": "07-Apr-2025 11:11:44"
+  },
+  {
+    "brand": "vw",
+    "model": "polo",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R420,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo.html",
+    "timestamp": "07-Apr-2025 11:11:44"
+  },
+  {
+    "brand": "vw",
+    "model": "polo",
+    "variant": "Polo",
+    "variantSlug": "polo",
+    "price": "R373,800",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo.html",
+    "timestamp": "07-Apr-2025 11:11:44"
+  },
+  {
+    "brand": "vw",
+    "model": "polo",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R499,100",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/polo.html",
+    "timestamp": "07-Apr-2025 11:11:44"
+  },
+  {
+    "brand": "vw",
+    "model": "polo sedan",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R415,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/new-polo-sedan.html",
+    "timestamp": "07-Apr-2025 11:12:47"
+  },
+  {
+    "brand": "vw",
+    "model": "polo sedan",
+    "variant": "Sedan",
+    "variantSlug": "sedan",
+    "price": "R382,600",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/new-polo-sedan.html",
+    "timestamp": "07-Apr-2025 11:12:47"
+  },
+  {
+    "brand": "vw",
+    "model": "polo sedan",
+    "variant": "Style",
+    "variantSlug": "style",
+    "price": "R482,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/new-polo-sedan.html",
+    "timestamp": "07-Apr-2025 11:12:47"
+  },
+  {
+    "brand": "vw",
+    "model": "t-roc",
+    "variant": "Design",
+    "variantSlug": "design",
+    "price": "R648,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/new-t-roc.html",
+    "timestamp": "07-Apr-2025 11:17:48"
+  },
+  {
+    "brand": "vw",
+    "model": "t-roc",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R760,100",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/new-t-roc.html",
+    "timestamp": "07-Apr-2025 11:17:48"
+  },
+  {
+    "brand": "vw",
+    "model": "taigo",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R514,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/taigo.html",
+    "timestamp": "07-Apr-2025 11:16:46"
+  },
+  {
+    "brand": "vw",
+    "model": "taigo",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R581,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/taigo.html",
+    "timestamp": "07-Apr-2025 11:16:46"
+  },
+  {
+    "brand": "vw",
+    "model": "taigo",
+    "variant": "Style",
+    "variantSlug": "style",
+    "price": "R555,300",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/taigo.html",
+    "timestamp": "07-Apr-2025 11:16:46"
+  },
+  {
+    "brand": "vw",
+    "model": "tiguan allspace",
+    "variant": "Allspace",
+    "variantSlug": "allspace",
+    "price": "R701,600",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan-allspace.html",
+    "timestamp": "07-Apr-2025 11:20:03"
+  },
+  {
+    "brand": "vw",
+    "model": "tiguan allspace",
+    "variant": "Life",
+    "variantSlug": "life",
+    "price": "R794,700",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan-allspace.html",
+    "timestamp": "07-Apr-2025 11:20:03"
+  },
+  {
+    "brand": "vw",
+    "model": "tiguan allspace",
+    "variant": "R-Line",
+    "variantSlug": "r-line",
+    "price": "R855,400",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan-allspace.html",
+    "timestamp": "07-Apr-2025 11:20:03"
+  },
+  {
+    "brand": "vw",
+    "model": "tiguan allspace",
+    "variant": "Style",
+    "variantSlug": "style",
+    "price": "R863,500",
+    "vehicleType": "Unknown",
+    "url": "https://www.vw.co.za/en/models/tiguan-allspace.html",
+    "timestamp": "07-Apr-2025 11:20:03"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno",
+    "variant": "1.5 GL MT",
+    "variantSlug": "1-5-gl-mt",
+    "price": "R260,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/baleno-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:15"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno",
+    "variant": "1.5 GL AT",
+    "variantSlug": "1-5-gl-at",
+    "price": "R284,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/baleno-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:15"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno",
+    "variant": "1.5 GLX MT",
+    "variantSlug": "1-5-glx-mt",
+    "price": "R316,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/baleno-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:15"
+  },
+  {
+    "brand": "suzuki",
+    "model": "baleno",
+    "variant": "1.5 GLX AT",
+    "variantSlug": "1-5-glx-at",
+    "price": "R336,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/baleno-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:15"
+  },
+  {
+    "brand": "suzuki",
+    "model": "celerio",
+    "variant": "1.0 GA MT",
+    "variantSlug": "1-0-ga-mt",
+    "price": "R188,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/celerio-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "celerio",
+    "variant": "1.0 GL MT",
+    "variantSlug": "1-0-gl-mt",
+    "price": "R210,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/celerio-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "celerio",
+    "variant": "1.0 GL AMT",
+    "variantSlug": "1-0-gl-amt",
+    "price": "R225,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/celerio-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ciaz",
+    "variant": "1.5 GL MT",
+    "variantSlug": "1-5-gl-mt",
+    "price": "R286,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-ciaz-1?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ciaz",
+    "variant": "1.5 GL AT",
+    "variantSlug": "1-5-gl-at",
+    "price": "R303,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-ciaz-1?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ciaz",
+    "variant": "1.5 GLX MT",
+    "variantSlug": "1-5-glx-mt",
+    "price": "R330,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-ciaz-1?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ciaz",
+    "variant": "1.5 GLX AT",
+    "variantSlug": "1-5-glx-at",
+    "price": "R347,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-ciaz-1?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "dzire",
+    "variant": "1.2 GA MT",
+    "variantSlug": "1-2-ga-mt",
+    "price": "R217,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/dzire-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:13"
+  },
+  {
+    "brand": "suzuki",
+    "model": "dzire",
+    "variant": "1.2 GL MT",
+    "variantSlug": "1-2-gl-mt",
+    "price": "R239,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/dzire-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:13"
+  },
+  {
+    "brand": "suzuki",
+    "model": "dzire",
+    "variant": "1.2 GL AMT",
+    "variantSlug": "1-2-gl-amt",
+    "price": "R254,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/dzire-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:13"
+  },
+  {
+    "brand": "suzuki",
+    "model": "eeco",
+    "variant": "1.2 2WD 5MT",
+    "variantSlug": "1-2-2wd-5mt",
+    "price": "R219,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/eeco-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:21"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ertiga",
+    "variant": "1.5 GA MT",
+    "variantSlug": "1-5-ga-mt",
+    "price": "R290,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ertiga-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ertiga",
+    "variant": "1.5 GL MT",
+    "variantSlug": "1-5-gl-mt",
+    "price": "R333,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ertiga-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ertiga",
+    "variant": "1.5 GL AT",
+    "variantSlug": "1-5-gl-at",
+    "price": "R352,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ertiga-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:17"
+  },
+  {
+    "brand": "suzuki",
+    "model": "fronx",
+    "variant": "1.5 GL 5MT",
+    "variantSlug": "1-5-gl-5mt",
+    "price": "R298,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/fronx-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:16"
+  },
+  {
+    "brand": "suzuki",
+    "model": "fronx",
+    "variant": "1.5 GL 4AT",
+    "variantSlug": "1-5-gl-4at",
+    "price": "R318,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/fronx-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:16"
+  },
+  {
+    "brand": "suzuki",
+    "model": "fronx",
+    "variant": "1.5 GLX 5MT",
+    "variantSlug": "1-5-glx-5mt",
+    "price": "R335,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/fronx-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:16"
+  },
+  {
+    "brand": "suzuki",
+    "model": "fronx",
+    "variant": "1.5 GLX 4AT",
+    "variantSlug": "1-5-glx-4at",
+    "price": "R355,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/fronx-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:16"
+  },
+  {
+    "brand": "suzuki",
+    "model": "grand vitara",
+    "variant": "1.5 GL 5MT",
+    "variantSlug": "1-5-gl-5mt",
+    "price": "R358,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/grand-vitara-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "grand vitara",
+    "variant": "1.5 GL 4AT",
+    "variantSlug": "1-5-gl-4at",
+    "price": "R380,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/grand-vitara-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "grand vitara",
+    "variant": "1.5 GLX 5MT",
+    "variantSlug": "1-5-glx-5mt",
+    "price": "R426,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/grand-vitara-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "grand vitara",
+    "variant": "1.5 GLX 4AT",
+    "variantSlug": "1-5-glx-4at",
+    "price": "R447,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/grand-vitara-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "grand vitara",
+    "variant": "1.5 GLX 6AT Hybrid AllGrip",
+    "variantSlug": "1-5-glx-6at-hybrid-allgrip",
+    "price": "R542,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/grand-vitara-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ignis",
+    "variant": "1.2 GL MT",
+    "variantSlug": "1-2-gl-mt",
+    "price": "R237,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ignis-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:14"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ignis",
+    "variant": "1.2 GLX MT",
+    "variantSlug": "1-2-glx-mt",
+    "price": "R293,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ignis-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:14"
+  },
+  {
+    "brand": "suzuki",
+    "model": "ignis",
+    "variant": "1.2 GLX AMT",
+    "variantSlug": "1-2-glx-amt",
+    "price": "Price on Request",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/ignis-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:14"
+  },
+  {
+    "brand": "suzuki",
+    "model": "jimny",
+    "variant": "1.5 GLX MT",
+    "variantSlug": "1-5-glx-mt",
+    "price": "R427,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/jimny-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:19"
+  },
+  {
+    "brand": "suzuki",
+    "model": "jimny",
+    "variant": "1.5 GLX AT",
+    "variantSlug": "1-5-glx-at",
+    "price": "R449,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/jimny-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:19"
+  },
+  {
+    "brand": "suzuki",
+    "model": "jimny-5-door",
+    "variant": "1.5 GL 5MT",
+    "variantSlug": "1-5-gl-5mt",
+    "price": "R429,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-jimny-5-door-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "jimny-5-door",
+    "variant": "1.5 GLX 5MT",
+    "variantSlug": "1-5-glx-5mt",
+    "price": "R457,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-jimny-5-door-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "jimny-5-door",
+    "variant": "1.5 GLX 4AT",
+    "variantSlug": "1-5-glx-4at",
+    "price": "R479,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/suzuki-jimny-5-door-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:20"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL MT",
+    "variantSlug": "1-0-gl-mt",
+    "price": "R178,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL AMT",
+    "variantSlug": "1-0-gl-amt",
+    "price": "R192,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL+ MT",
+    "variantSlug": "1-0-gl-mt",
+    "price": "R189,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL+ AMT",
+    "variantSlug": "1-0-gl-amt",
+    "price": "R203,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL+ MT S-Edition",
+    "variantSlug": "1-0-gl-mt-s-edition",
+    "price": "R205,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "s-presso",
+    "variant": "1.0 GL+ AMT S-Edition",
+    "variantSlug": "1-0-gl-amt-s-edition",
+    "price": "R219,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/s-presso-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:10"
+  },
+  {
+    "brand": "suzuki",
+    "model": "super carry",
+    "variant": "",
+    "variantSlug": "",
+    "price": "R187,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/super-carry-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:22"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift",
+    "variant": "1.2 GL MT",
+    "variantSlug": "1-2-gl-mt",
+    "price": "R219,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/swift-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift",
+    "variant": "1.2 GL+ MT",
+    "variantSlug": "1-2-gl-mt",
+    "price": "R239,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/swift-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift",
+    "variant": "1.2 GL+ CVT",
+    "variantSlug": "1-2-gl-cvt",
+    "price": "R259,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/swift-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift",
+    "variant": "1.2 GLX MT",
+    "variantSlug": "1-2-glx-mt",
+    "price": "R264,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/swift-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift",
+    "variant": "1.2 GLX CVT",
+    "variantSlug": "1-2-glx-cvt",
+    "price": "R284,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/swift-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:11"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift sport",
+    "variant": "1.4 Turbo MT",
+    "variantSlug": "1-4-turbo-mt",
+    "price": "R454,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/new-swift-sport?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:12"
+  },
+  {
+    "brand": "suzuki",
+    "model": "swift sport",
+    "variant": "1.4 Turbo AT",
+    "variantSlug": "1-4-turbo-at",
+    "price": "R478,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/new-swift-sport?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:12"
+  },
+  {
+    "brand": "suzuki",
+    "model": "xl6",
+    "variant": "1.5 GL 5MT",
+    "variantSlug": "1-5-gl-5mt",
+    "price": "R353,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/xl6-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:18"
+  },
+  {
+    "brand": "suzuki",
+    "model": "xl6",
+    "variant": "1.5 GL 4AT",
+    "variantSlug": "1-5-gl-4at",
+    "price": "R372,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/xl6-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:18"
+  },
+  {
+    "brand": "suzuki",
+    "model": "xl6",
+    "variant": "1.5 GLX 5MT",
+    "variantSlug": "1-5-glx-5mt",
+    "price": "R370,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/xl6-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:18"
+  },
+  {
+    "brand": "suzuki",
+    "model": "xl6",
+    "variant": "1.5 GLX 4AT",
+    "variantSlug": "1-5-glx-4at",
+    "price": "R389,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.suzukiauto.co.za/xl6-suzuki-auto?hsLang=en-za",
+    "timestamp": "07-Apr-2025 11:09:18"
+  },
+  {
+    "brand": "kia",
+    "model": "carnival",
+    "variant": "2.2CRDI EX",
+    "variantSlug": "2-2crdi-ex",
+    "price": "R938,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/carnival",
+    "timestamp": "07-Apr-2025 11:08:11"
+  },
+  {
+    "brand": "kia",
+    "model": "carnival",
+    "variant": "2.2CRDI EX+",
+    "variantSlug": "2-2crdi-ex",
+    "price": "R1,018,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/carnival",
+    "timestamp": "07-Apr-2025 11:08:11"
+  },
+  {
+    "brand": "kia",
+    "model": "carnival",
+    "variant": "2.2CRDI SXL",
+    "variantSlug": "2-2crdi-sxl",
+    "price": "R1,163,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/carnival",
+    "timestamp": "07-Apr-2025 11:08:11"
+  },
+  {
+    "brand": "kia",
+    "model": "k2500",
+    "variant": "TIPPER",
+    "variantSlug": "tipper",
+    "price": "R460,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2500",
+    "timestamp": "07-Apr-2025 11:08:34"
+  },
+  {
+    "brand": "kia",
+    "model": "k2500",
+    "variant": "WORKHORSE DROPSIDE",
+    "variantSlug": "workhorse-dropside",
+    "price": "R424,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2500",
+    "timestamp": "07-Apr-2025 11:08:34"
+  },
+  {
+    "brand": "kia",
+    "model": "k2500",
+    "variant": "WORKHORSE DROPSIDE",
+    "variantSlug": "workhorse-dropside",
+    "price": "R440,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2500",
+    "timestamp": "07-Apr-2025 11:08:34"
+  },
+  {
+    "brand": "kia",
+    "model": "k2700",
+    "variant": "WORKHORSE CHASSIS CAB",
+    "variantSlug": "workhorse-chassis-cab",
+    "price": "R376,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2700",
+    "timestamp": "07-Apr-2025 11:08:23"
+  },
+  {
+    "brand": "kia",
+    "model": "k2700",
+    "variant": "WORKHORSE SEBENZA",
+    "variantSlug": "workhorse-sebenza",
+    "price": "R393,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2700",
+    "timestamp": "07-Apr-2025 11:08:23"
+  },
+  {
+    "brand": "kia",
+    "model": "k2700",
+    "variant": "WORKHORSE SEBENZA 2",
+    "variantSlug": "workhorse-sebenza-2",
+    "price": "R409,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2700",
+    "timestamp": "07-Apr-2025 11:08:23"
+  },
+  {
+    "brand": "kia",
+    "model": "k2700",
+    "variant": "WORKHORSE TIPPER",
+    "variantSlug": "workhorse-tipper",
+    "price": "R429,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/k2700",
+    "timestamp": "07-Apr-2025 11:08:23"
+  },
+  {
+    "brand": "kia",
+    "model": "pegas",
+    "variant": "1.4 EX",
+    "variantSlug": "1-4-ex",
+    "price": "R303,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/pegas",
+    "timestamp": "07-Apr-2025 11:06:55"
+  },
+  {
+    "brand": "kia",
+    "model": "pegas",
+    "variant": "1.4 EX AUTO",
+    "variantSlug": "1-4-ex-auto",
+    "price": "R318,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/pegas",
+    "timestamp": "07-Apr-2025 11:06:55"
+  },
+  {
+    "brand": "kia",
+    "model": "pegas",
+    "variant": "1.4 LX",
+    "variantSlug": "1-4-lx",
+    "price": "R292,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/pegas",
+    "timestamp": "07-Apr-2025 11:06:55"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.0 LX AUTO",
+    "variantSlug": "1-0-lx-auto",
+    "price": "R258,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.0 LX MANUAL",
+    "variantSlug": "1-0-lx-manual",
+    "price": "R240,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.2 EX AUTO",
+    "variantSlug": "1-2-ex-auto",
+    "price": "R282,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.2 EX MANUAL",
+    "variantSlug": "1-2-ex-manual",
+    "price": "R264,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.2 EX+ AUTO",
+    "variantSlug": "1-2-ex-auto",
+    "price": "R305,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto",
+    "variant": "1.2 EX+ MANUAL",
+    "variantSlug": "1-2-ex-manual",
+    "price": "R287,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto",
+    "timestamp": "07-Apr-2025 11:06:43"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto-runner",
+    "variant": "PICANTO 1.0 AT LX RUNNER",
+    "variantSlug": "picanto-1-0-at-lx-runner",
+    "price": "R273,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto-runner",
+    "timestamp": "07-Apr-2025 11:08:44"
+  },
+  {
+    "brand": "kia",
+    "model": "picanto-runner",
+    "variant": "PICANTO 1.0 MT LX RUNNER",
+    "variantSlug": "picanto-1-0-mt-lx-runner",
+    "price": "R255,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/picanto-runner",
+    "timestamp": "07-Apr-2025 11:08:44"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5 EX",
+    "variantSlug": "1-5-ex",
+    "price": "R472,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5 EX+",
+    "variantSlug": "1-5-ex",
+    "price": "R510,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5 LX AUTO",
+    "variantSlug": "1-5-lx-auto",
+    "price": "R432,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5 LX MANUAL",
+    "variantSlug": "1-5-lx-manual",
+    "price": "R399,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5CRDI EX AT",
+    "variantSlug": "1-5crdi-ex-at",
+    "price": "R491,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5CRDI EX+ AT",
+    "variantSlug": "1-5crdi-ex-at",
+    "price": "R539,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5CRDI LX",
+    "variantSlug": "1-5crdi-lx",
+    "price": "R461,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "seltos",
+    "variant": "1.5T-GDI GT LINE",
+    "variantSlug": "1-5t-gdi-gt-line",
+    "price": "R596,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/seltos",
+    "timestamp": "07-Apr-2025 11:07:33"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.0T EX",
+    "variantSlug": "1-0t-ex",
+    "price": "R396,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 CVT LS",
+    "variantSlug": "1-5-cvt-ls",
+    "price": "R324,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 EX",
+    "variantSlug": "1-5-ex",
+    "price": "R371,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 EX+",
+    "variantSlug": "1-5-ex",
+    "price": "R414,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 LX AUTO",
+    "variantSlug": "1-5-lx-auto",
+    "price": "R351,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 LX MANUAL",
+    "variantSlug": "1-5-lx-manual",
+    "price": "R326,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 MANUAL LS",
+    "variantSlug": "1-5-manual-ls",
+    "price": "R299,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet",
+    "variant": "1.5 SX",
+    "variantSlug": "1-5-sx",
+    "price": "R444,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet",
+    "timestamp": "07-Apr-2025 11:07:21"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet-runner",
+    "variant": "SONET 1.5 MT LX RUNNER",
+    "variantSlug": "sonet-1-5-mt-lx-runner",
+    "price": "R379,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet-runner",
+    "timestamp": "07-Apr-2025 11:08:55"
+  },
+  {
+    "brand": "kia",
+    "model": "sonet-runner",
+    "variant": "SONET 1.5 MT RUNNER",
+    "variantSlug": "sonet-1-5-mt-runner",
+    "price": "R319,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sonet-runner",
+    "timestamp": "07-Apr-2025 11:08:55"
+  },
+  {
+    "brand": "kia",
+    "model": "sorento",
+    "variant": "2.2CRDI AWD EX+",
+    "variantSlug": "2-2crdi-awd-ex",
+    "price": "R988,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sorento",
+    "timestamp": "07-Apr-2025 11:07:57"
+  },
+  {
+    "brand": "kia",
+    "model": "sorento",
+    "variant": "2.2CRDI AWD SX",
+    "variantSlug": "2-2crdi-awd-sx",
+    "price": "R1,053,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sorento",
+    "timestamp": "07-Apr-2025 11:07:57"
+  },
+  {
+    "brand": "kia",
+    "model": "sorento",
+    "variant": "2.2CRDI AWD SXL",
+    "variantSlug": "2-2crdi-awd-sxl",
+    "price": "R1,133,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sorento",
+    "timestamp": "07-Apr-2025 11:07:57"
+  },
+  {
+    "brand": "kia",
+    "model": "sorento",
+    "variant": "2.2CRDI EX+",
+    "variantSlug": "2-2crdi-ex",
+    "price": "R948,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sorento",
+    "timestamp": "07-Apr-2025 11:07:57"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6CRDI EX",
+    "variantSlug": "1-6crdi-ex",
+    "price": "R716,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6CRDI GT LINE PLUS",
+    "variantSlug": "1-6crdi-gt-line-plus",
+    "price": "R790,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6CRDI LX",
+    "variantSlug": "1-6crdi-lx",
+    "price": "R662,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6T-GDI GT LINE",
+    "variantSlug": "1-6t-gdi-gt-line",
+    "price": "R738,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6T-GDI GT LINE PLUS",
+    "variantSlug": "1-6t-gdi-gt-line-plus",
+    "price": "R766,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "kia",
+    "model": "sportage",
+    "variant": "1.6T-GDI GT LINE S",
+    "variantSlug": "1-6t-gdi-gt-line-s",
+    "price": "R823,995",
+    "vehicleType": "Unknown",
+    "url": "https://www.kia.co.za/new-cars/sportage",
+    "timestamp": "07-Apr-2025 11:07:45"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6",
+    "variant": "HEV Ultra Luxury",
+    "variantSlug": "hev-ultra-luxury",
+    "price": "R679,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6/",
+    "timestamp": "07-Apr-2025 10:52:58"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6",
+    "variant": "Luxury",
+    "variantSlug": "luxury",
+    "price": "R537,350",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6/",
+    "timestamp": "07-Apr-2025 10:52:58"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6",
+    "variant": "Luxury 4WD",
+    "variantSlug": "luxury-4wd",
+    "price": "R569,350",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6/",
+    "timestamp": "07-Apr-2025 10:52:58"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6",
+    "variant": "Premium",
+    "variantSlug": "premium",
+    "price": "R492,050",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6/",
+    "timestamp": "07-Apr-2025 10:53:10"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6",
+    "variant": "Super Luxury",
+    "variantSlug": "super-luxury",
+    "price": "R610,750",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6/",
+    "timestamp": "07-Apr-2025 10:53:25"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h6 gt",
+    "variant": "Super Luxury",
+    "variantSlug": "super-luxury",
+    "price": "R662,250",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h6-gt/",
+    "timestamp": "07-Apr-2025 10:53:41"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h7",
+    "variant": "Luxury",
+    "variantSlug": "luxury",
+    "price": "R601,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h7/",
+    "timestamp": "07-Apr-2025 10:53:59"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval h7",
+    "variant": "Super Luxury",
+    "variantSlug": "super-luxury",
+    "price": "R671,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/h7/",
+    "timestamp": "07-Apr-2025 10:54:27"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "City",
+    "variantSlug": "city",
+    "price": "R345,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:54:27"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "City Plus",
+    "variantSlug": "city-plus",
+    "price": "R370,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:54:27"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "Pro HEV Ultra Luxury",
+    "variantSlug": "pro-hev-ultra-luxury",
+    "price": "R516,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:54:38"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "Pro Premium",
+    "variantSlug": "pro-premium",
+    "price": "R391,150",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:54:51"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "Pro S Ultra Luxury",
+    "variantSlug": "pro-s-ultra-luxury",
+    "price": "R495,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:55:14"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "Pro Super Luxury",
+    "variantSlug": "pro-super-luxury",
+    "price": "R425,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:55:22"
+  },
+  {
+    "brand": "gwm",
+    "model": "haval jolion",
+    "variant": "Pro Ultra Luxury",
+    "variantSlug": "pro-ultra-luxury",
+    "price": "R462,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/jolion/",
+    "timestamp": "07-Apr-2025 10:55:22"
+  },
+  {
+    "brand": "gwm",
+    "model": "ora 03",
+    "variant": "300 Super Luxury",
+    "variantSlug": "300-super-luxury",
+    "price": "R686,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/ora-03/",
+    "timestamp": "07-Apr-2025 10:55:30"
+  },
+  {
+    "brand": "gwm",
+    "model": "ora 03",
+    "variant": "400 GT Ultra Luxury",
+    "variantSlug": "400-gt-ultra-luxury",
+    "price": "R835,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/ora-03/",
+    "timestamp": "07-Apr-2025 10:55:30"
+  },
+  {
+    "brand": "gwm",
+    "model": "ora 03",
+    "variant": "400 Super Luxury",
+    "variantSlug": "400-super-luxury",
+    "price": "R775,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/ora-03/",
+    "timestamp": "07-Apr-2025 10:55:30"
+  },
+  {
+    "brand": "gwm",
+    "model": "ora 03",
+    "variant": "400 Ultra Luxury",
+    "variantSlug": "400-ultra-luxury",
+    "price": "R805,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/ora-03/",
+    "timestamp": "07-Apr-2025 10:55:47"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series 2.0 ls",
+    "variant": "LS 4X2",
+    "variantSlug": "ls-4x2",
+    "price": "R526,250",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/passenger/",
+    "timestamp": "07-Apr-2025 10:55:47"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series 2.0 ls",
+    "variant": "LS 4X4",
+    "variantSlug": "ls-4x4",
+    "price": "R577,250",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/passenger/",
+    "timestamp": "07-Apr-2025 10:55:54"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "DLX 4X2 6MT",
+    "variantSlug": "dlx-4x2-6mt",
+    "price": "R473,250",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:01"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "DLX 4X2 8AT",
+    "variantSlug": "dlx-4x2-8at",
+    "price": "R515,050",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:01"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "DLX 4X4 6MT",
+    "variantSlug": "dlx-4x4-6mt",
+    "price": "R525,250",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:08"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "DLX 4X4 8AT",
+    "variantSlug": "dlx-4x4-8at",
+    "price": "R562,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:22"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "SX 4X2 6MT",
+    "variantSlug": "sx-4x2-6mt",
+    "price": "R444,650",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:22"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "SX 4X2 8AT",
+    "variantSlug": "sx-4x2-8at",
+    "price": "R487,550",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:22"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "SX 4X4 6MT",
+    "variantSlug": "sx-4x4-6mt",
+    "price": "R497,750",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:33"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx double cab",
+    "variant": "SX 4X4 8AT",
+    "variantSlug": "sx-4x4-8at",
+    "price": "R535,450",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-dc/",
+    "timestamp": "07-Apr-2025 10:56:55"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx single cab",
+    "variant": "DLX 4X2",
+    "variantSlug": "dlx-4x2",
+    "price": "R443,650",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-sc/",
+    "timestamp": "07-Apr-2025 10:56:55"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx single cab",
+    "variant": "DLX 4X4",
+    "variantSlug": "dlx-4x4",
+    "price": "R499,750",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-sc/",
+    "timestamp": "07-Apr-2025 10:56:55"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx single cab",
+    "variant": "SX 4X2",
+    "variantSlug": "sx-4x2",
+    "price": "R413,050",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-sc/",
+    "timestamp": "07-Apr-2025 10:57:06"
+  },
+  {
+    "brand": "gwm",
+    "model": "p-series sx/dlx single cab",
+    "variant": "SX 4X4",
+    "variantSlug": "sx-4x4",
+    "price": "R469,150",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/commercial-sc/",
+    "timestamp": "07-Apr-2025 10:57:20"
+  },
+  {
+    "brand": "gwm",
+    "model": "p300 2.4 lt",
+    "variant": "4X2",
+    "variantSlug": "4x2",
+    "price": "R599,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/p300/",
+    "timestamp": "07-Apr-2025 10:57:35"
+  },
+  {
+    "brand": "gwm",
+    "model": "p300 2.4 lt",
+    "variant": "4X4",
+    "variantSlug": "4x4",
+    "price": "R649,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/p300/",
+    "timestamp": "07-Apr-2025 10:57:53"
+  },
+  {
+    "brand": "gwm",
+    "model": "p300 2.4 ltd",
+    "variant": "2.4TD",
+    "variantSlug": "2-4td",
+    "price": "R699,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/ltd/",
+    "timestamp": "07-Apr-2025 10:58:13"
+  },
+  {
+    "brand": "gwm",
+    "model": "p500",
+    "variant": "HEV Ultra Luxury",
+    "variantSlug": "hev-ultra-luxury",
+    "price": "R999,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/p500/",
+    "timestamp": "07-Apr-2025 10:58:43"
+  },
+  {
+    "brand": "gwm",
+    "model": "p500",
+    "variant": "Luxury",
+    "variantSlug": "luxury",
+    "price": "R799,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/p500/",
+    "timestamp": "07-Apr-2025 10:58:43"
+  },
+  {
+    "brand": "gwm",
+    "model": "p500",
+    "variant": "Super Luxury",
+    "variantSlug": "super-luxury",
+    "price": "R889,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/p500/",
+    "timestamp": "07-Apr-2025 10:58:43"
+  },
+  {
+    "brand": "gwm",
+    "model": "steed",
+    "variant": "Steed 5 Double Cab",
+    "variantSlug": "steed-5-double-cab",
+    "price": "R305,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/range/steed-5/",
+    "timestamp": "07-Apr-2025 10:58:55"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "HEV Super Luxury",
+    "variantSlug": "hev-super-luxury",
+    "price": "R851,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:09"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "HEV Ultra Luxury",
+    "variantSlug": "hev-ultra-luxury",
+    "price": "R925,000",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:24"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "Super Luxury",
+    "variantSlug": "super-luxury",
+    "price": "R725,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:50"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "Super Luxury Diesel",
+    "variantSlug": "super-luxury-diesel",
+    "price": "R699,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:57"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "Ultra Luxury",
+    "variantSlug": "ultra-luxury",
+    "price": "R775,950",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:57"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 300",
+    "variant": "Ultra Luxury Diesel",
+    "variantSlug": "ultra-luxury-diesel",
+    "price": "R739,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-300/",
+    "timestamp": "07-Apr-2025 10:59:57"
+  },
+  {
+    "brand": "gwm",
+    "model": "tank 500",
+    "variant": "Ultra Luxury",
+    "variantSlug": "ultra-luxury",
+    "price": "R1,222,900",
+    "vehicleType": "Unknown",
+    "url": "https://www.gwm.co.za/explore/tank-500/",
+    "timestamp": "07-Apr-2025 11:00:08"
+  }
+]

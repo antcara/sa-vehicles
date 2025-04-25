@@ -16,10 +16,13 @@ const popularPages = [
 
 const HomePage = () => {
   const [search, setSearch] = useState("");
+  const [minPrice, setMinPrice] = useState(0);
   const [maxPrice, setMaxPrice] = useState(1500000);
-  const [fuelType, setFuelType] = useState("");
-  const [bodyType, setBodyType] = useState("");
-  const [transmission, setTransmission] = useState("");
+  const [bodyTypeFilters, setBodyTypeFilters] = useState<string[]>([]);
+  const [transmissionFilters, setTransmissionFilters] = useState<string[]>([]);
+  const [fuelTypeFilters, setFuelTypeFilters] = useState<string[]>([]);
+  const [driveFilters, setDriveFilters] = useState<string[]>([]);
+  const [seatFilters, setSeatFilters] = useState<number[]>([]);
   const [sortBy, setSortBy] = useState("");
   const [hasMounted, setHasMounted] = useState(false);
 
@@ -35,10 +38,13 @@ const HomePage = () => {
         (car.brand.toLowerCase().includes(keyword) ||
           car.model.toLowerCase().includes(keyword) ||
           car.variant.toLowerCase().includes(keyword)) &&
+        numericPrice >= minPrice &&
         numericPrice <= maxPrice &&
-        (!fuelType || (car.fuelType && car.fuelType.toLowerCase() === fuelType)) &&
-        (!bodyType || (car.bodyType && car.bodyType.toLowerCase() === bodyType)) &&
-        (!transmission || (car.transmission && car.transmission.toLowerCase() === transmission))
+        (bodyTypeFilters.length === 0 || bodyTypeFilters.includes(car.bodyType?.toLowerCase())) &&
+        (transmissionFilters.length === 0 || transmissionFilters.includes(car.transmission?.toLowerCase())) &&
+        (fuelTypeFilters.length === 0 || fuelTypeFilters.includes(car.fuelType?.toLowerCase())) &&
+        (driveFilters.length === 0 || driveFilters.includes(car.drive?.toLowerCase())) &&
+        (seatFilters.length === 0 || seatFilters.includes(parseInt(car.seats)))
       );
     })
     .sort((a, b) => {
@@ -65,7 +71,17 @@ const HomePage = () => {
     .sort((a, b) => a.numericPrice - b.numericPrice)
     .slice(0, 9);
 
-  const displayCars = search.trim() ? filteredCars.slice(0, 9) : defaultSelection;
+  const fallbackSelection = carData
+    .map(car => ({
+      ...car,
+      numericPrice: parseInt(car.price.replace(/[^0-9]/g, "")) || 9999999
+    }))
+    .sort((a, b) => a.numericPrice - b.numericPrice)
+    .slice(0, 9);
+
+  const displayCars = search.trim()
+    ? filteredCars.slice(0, 9)
+    : (defaultSelection.length >= 6 ? defaultSelection : fallbackSelection);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-10">
@@ -83,6 +99,142 @@ const HomePage = () => {
         />
       </div>
 
+      {/* Filters */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6 w-full max-w-6xl mx-auto">
+        {/* Monthly repayment slider */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Monthly Repayment (max)</label>
+          <input
+            type="range"
+            min="1000"
+            max="30000"
+            step="500"
+            value={maxPrice * 0.021}
+            onChange={(e) => setMaxPrice(Math.round(parseInt(e.target.value) / 0.021))}
+            className="w-full"
+          />
+          <p className="text-sm mt-1">Up to R{Math.round(maxPrice * 0.021).toLocaleString("en-ZA")}/month</p>
+        </div>
+
+        {/* Min Price */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Min Price</label>
+          <select
+            onChange={(e) => setMinPrice(parseInt(e.target.value))}
+            className="w-full border px-3 py-2 rounded"
+          >
+            {[0, 50000, 100000, 150000, 200000].map((val) => (
+              <option key={val} value={val}>R{val.toLocaleString("en-ZA")}</option>
+            ))}
+          </select>
+        </div>
+
+        {/* Max Price */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Max Price</label>
+          <select
+            onChange={(e) => setMaxPrice(parseInt(e.target.value))}
+            className="w-full border px-3 py-2 rounded"
+          >
+            {[200000, 300000, 400000, 600000, 1000000, 1500000].map((val) => (
+              <option key={val} value={val}>R{val.toLocaleString("en-ZA")}</option>
+            ))}
+          </select>
+        </div>
+
+        {/* Body Type */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Body Type</label>
+          {['hatchback', 'suv', 'sedan', 'bakkie'].map(type => (
+            <label key={type} className="block text-sm">
+              <input
+                type="checkbox"
+                value={type}
+                onChange={(e) => {
+                  setBodyTypeFilters(prev =>
+                    e.target.checked ? [...prev, type] : prev.filter(t => t !== type)
+                  );
+                }}
+              /> {type.charAt(0).toUpperCase() + type.slice(1)}
+            </label>
+          ))}
+        </div>
+
+        {/* Transmission */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Transmission</label>
+          {['manual', 'automatic'].map(type => (
+            <label key={type} className="block text-sm">
+              <input
+                type="checkbox"
+                value={type}
+                onChange={(e) => {
+                  setTransmissionFilters(prev =>
+                    e.target.checked ? [...prev, type] : prev.filter(t => t !== type)
+                  );
+                }}
+              /> {type.charAt(0).toUpperCase() + type.slice(1)}
+            </label>
+          ))}
+        </div>
+
+        {/* Fuel Type */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Fuel Type</label>
+          {['petrol', 'diesel', 'hybrid', 'electric'].map(type => (
+            <label key={type} className="block text-sm">
+              <input
+                type="checkbox"
+                value={type}
+                onChange={(e) => {
+                  setFuelTypeFilters(prev =>
+                    e.target.checked ? [...prev, type] : prev.filter(t => t !== type)
+                  );
+                }}
+              /> {type.charAt(0).toUpperCase() + type.slice(1)}
+            </label>
+          ))}
+        </div>
+
+        {/* Drivetrain */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Drivetrain</label>
+          {['4x2', '4x4'].map(type => (
+            <label key={type} className="block text-sm">
+              <input
+                type="checkbox"
+                value={type}
+                onChange={(e) => {
+                  setDriveFilters(prev =>
+                    e.target.checked ? [...prev, type] : prev.filter(t => t !== type)
+                  );
+                }}
+              /> {type.toUpperCase()}
+            </label>
+          ))}
+        </div>
+
+        {/* Number of Seats */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Number of Seats</label>
+          {[2, 4, 5, 6, 7].map(num => (
+            <label key={num} className="block text-sm">
+              <input
+                type="checkbox"
+                value={num}
+                onChange={(e) => {
+                  const val = parseInt(e.target.value);
+                  setSeatFilters(prev =>
+                    e.target.checked ? [...prev, val] : prev.filter(t => t !== val)
+                  );
+                }}
+              /> {num} seats
+            </label>
+          ))}
+        </div>
+      </div>
+
+      {/* Results */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {displayCars.map((car, idx) => (
           <Link key={idx} href={`/cars/${car.brand}/${car.model}/${car.variantSlug}`}>
@@ -90,6 +242,9 @@ const HomePage = () => {
               <CardContent className="p-4">
                 <h3 className="font-semibold text-lg">{car.brand} {car.model}</h3>
                 <p className="text-sm text-gray-500">{car.variant}</p>
+                <p className="text-sm text-gray-500">
+                  {car.vehicleType !== "Unknown" ? car.vehicleType : "To Be Classified"}
+                </p>
                 <p className="text-sm mt-1">{car.price}</p>
                 {hasMounted && car.price && !isNaN(parseInt(car.price.replace(/[^0-9]/g, ""))) && (
                   <p className="text-xs text-green-600 mt-1">

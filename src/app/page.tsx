@@ -14,7 +14,7 @@ const popularPages = [
   { title: "Car Finance Calculator", href: "/tools/finance-calculator" },
 ];
 
-// --- Helper Functions ---
+// Helpers
 function parsePrice(value: string | number): number {
   if (typeof value === "string") {
     return parseInt(value.replace(/[^0-9]/g, "")) || 0;
@@ -38,6 +38,7 @@ function calculateMonthlyPayment(price: number, deposit: number, interestRate: n
   const monthlyPayment = loanAmount * (monthlyInterest / (1 - Math.pow(1 + monthlyInterest, -termMonths)));
   return Math.round(monthlyPayment);
 }
+
 const HomePage = () => {
   const [hasMounted, setHasMounted] = useState(false);
 
@@ -45,9 +46,12 @@ const HomePage = () => {
     setHasMounted(true);
   }, []);
 
+  // Search + Make + Model
   const [search, setSearch] = useState("");
   const [selectedMake, setSelectedMake] = useState("");
   const [selectedModel, setSelectedModel] = useState("");
+
+  // Vehicle filters
   const [minPrice, setMinPrice] = useState(0);
   const [maxPrice, setMaxPrice] = useState(1500000);
   const [bodyTypeFilters, setBodyTypeFilters] = useState<string[]>([]);
@@ -65,7 +69,6 @@ const HomePage = () => {
   const [minMonthly, setMinMonthly] = useState(0);
   const [maxMonthly, setMaxMonthly] = useState(30000);
 
-  // More Filters toggle
   const [showMoreFilters, setShowMoreFilters] = useState(false);
 
   const brands = [...new Set(carData.map(car => car.brand))].sort();
@@ -78,6 +81,87 @@ const HomePage = () => {
   if (!hasMounted) {
     return null;
   }
+
+  const resetFilters = () => {
+    setSearch("");
+    setSelectedMake("");
+    setSelectedModel("");
+    setMinPrice(0);
+    setMaxPrice(1500000);
+    setDeposit(0);
+    setLoanTermMonths(60);
+    setInterestRate(11);
+    setBalloonPercentage(0);
+    setMinMonthly(0);
+    setMaxMonthly(30000);
+    setBodyTypeFilters([]);
+    setTransmissionFilters([]);
+    setFuelTypeFilters([]);
+    setDriveFilters([]);
+    setSeatFilters([]);
+    setShowMoreFilters(false);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const handleRemoveFilter = (filter) => {
+    switch (filter.type) {
+      case "make":
+        setSelectedMake("");
+        setSelectedModel("");
+        break;
+      case "model":
+        setSelectedModel("");
+        break;
+      case "bodyType":
+        setBodyTypeFilters(prev => prev.filter((t) => t !== filter.label.toLowerCase()));
+        break;
+      case "transmission":
+        setTransmissionFilters(prev => prev.filter((t) => t !== filter.label.toLowerCase()));
+        break;
+      case "fuelType":
+        setFuelTypeFilters(prev => prev.filter((t) => t !== filter.label.toLowerCase()));
+        break;
+      case "drive":
+        setDriveFilters(prev => prev.filter((t) => t !== filter.label.toLowerCase()));
+        break;
+      case "seats":
+        setSeatFilters(prev => prev.filter((n) => n !== filter.value));
+        break;
+      case "minPrice":
+        setMinPrice(0);
+        break;
+      case "maxPrice":
+        setMaxPrice(1500000);
+        break;
+      case "monthly":
+        setMinMonthly(0);
+        setMaxMonthly(30000);
+        break;
+      case "deposit":
+        setDeposit(0);
+        break;
+      case "balloon":
+        setBalloonPercentage(0);
+        break;
+      default:
+        break;
+    }
+  };
+
+  const activeFilters = [];
+  if (selectedMake) activeFilters.push({ label: selectedMake, type: "make" });
+  if (selectedModel) activeFilters.push({ label: selectedModel, type: "model" });
+  if (bodyTypeFilters.length > 0) activeFilters.push(...bodyTypeFilters.map(type => ({ label: type.charAt(0).toUpperCase() + type.slice(1), type: "bodyType" })));
+  if (transmissionFilters.length > 0) activeFilters.push(...transmissionFilters.map(type => ({ label: type.charAt(0).toUpperCase() + type.slice(1), type: "transmission" })));
+  if (fuelTypeFilters.length > 0) activeFilters.push(...fuelTypeFilters.map(type => ({ label: type.charAt(0).toUpperCase() + type.slice(1), type: "fuelType" })));
+  if (driveFilters.length > 0) activeFilters.push(...driveFilters.map(type => ({ label: type.toUpperCase(), type: "drive" })));
+  if (seatFilters.length > 0) activeFilters.push(...seatFilters.map(num => ({ label: `${num} seats`, type: "seats", value: num })));
+  if (minPrice > 0) activeFilters.push({ label: `Min R${minPrice.toLocaleString("en-ZA")}`, type: "minPrice" });
+  if (maxPrice < 1500000) activeFilters.push({ label: `Max R${maxPrice.toLocaleString("en-ZA")}`, type: "maxPrice" });
+  if (minMonthly > 0 || maxMonthly < 30000) activeFilters.push({ label: `Monthly R${minMonthly} - R${maxMonthly}`, type: "monthly" });
+  if (deposit > 0) activeFilters.push({ label: `Deposit R${deposit.toLocaleString("en-ZA")}`, type: "deposit" });
+  if (balloonPercentage > 0) activeFilters.push({ label: `Balloon ${balloonPercentage}%`, type: "balloon" });
+
   const filteredCars = carData
     .filter((car) => {
       const keyword = search.toLowerCase();
@@ -85,11 +169,10 @@ const HomePage = () => {
       const monthlyRepayment = calculateMonthlyPayment(numericPrice, deposit, interestRate, loanTermMonths, balloonPercentage);
 
       return (
-        (keyword === "" || 
+        (keyword === "" ||
           car.brand.toLowerCase().includes(keyword) ||
           car.model.toLowerCase().includes(keyword) ||
-          car.variant.toLowerCase().includes(keyword)
-        ) &&
+          car.variant.toLowerCase().includes(keyword)) &&
         (selectedMake === "" || car.brand === selectedMake) &&
         (selectedModel === "" || car.model === selectedModel) &&
         numericPrice >= minPrice &&
@@ -134,7 +217,7 @@ const HomePage = () => {
         />
       </div>
 
-      {/* Make and Model Filters */}
+      {/* Make and Model Dropdowns */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
         {/* Make */}
         <div>
@@ -143,7 +226,7 @@ const HomePage = () => {
             value={selectedMake}
             onChange={(e) => {
               setSelectedMake(e.target.value);
-              setSelectedModel(""); // reset model when brand changes
+              setSelectedModel(""); // reset model if brand changes
             }}
             className="w-full border px-3 py-2 rounded"
           >
@@ -173,9 +256,36 @@ const HomePage = () => {
             ))}
           </select>
         </div>
+
+        {/* Reset Filters Button */}
+        <div className="text-center my-2">
+          <button
+            onClick={resetFilters}
+            className="px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600 w-full"
+          >
+            Reset Filters
+          </button>
+        </div>
       </div>
 
-      {/* Vehicle Filters */}
+      {/* Filters Summary Bar */}
+      {activeFilters.length > 0 && (
+        <div className="flex flex-wrap gap-2 bg-gray-100 p-4 rounded mb-6">
+          {activeFilters.map((filter, index) => (
+            <div key={index} className="flex items-center bg-white border px-3 py-1 rounded-full text-sm">
+              {filter.label}
+              <button
+                onClick={() => handleRemoveFilter(filter)}
+                className="ml-2 text-red-500 hover:text-red-700"
+              >
+                ✕
+              </button>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Filters Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {/* Body Type */}
         <div>
@@ -233,7 +343,7 @@ const HomePage = () => {
 
         {/* Seats */}
         <div>
-          <label className="block text-sm font-medium mb-1">Number of Seats</label>
+          <label className="block text-sm font-medium mb-1">Seats</label>
           {[2, 4, 5, 6, 7].map((num) => (
             <label key={num} className="block text-sm">
               <input
@@ -249,51 +359,9 @@ const HomePage = () => {
             </label>
           ))}
         </div>
-
-        {/* Drivetrain */}
-        <div>
-          <label className="block text-sm font-medium mb-1">Drivetrain</label>
-          {['4x2', '4x4'].map((type) => (
-            <label key={type} className="block text-sm">
-              <input
-                type="checkbox"
-                value={type}
-                onChange={(e) =>
-                  setDriveFilters((prev) =>
-                    e.target.checked ? [...prev, type] : prev.filter((t) => t !== type)
-                  )
-                }
-              /> {type.toUpperCase()}
-            </label>
-          ))}
-        </div>
-
-        {/* Min Price */}
-        <div>
-          <label className="block text-sm font-medium mb-1">Min Price</label>
-          <input
-            type="number"
-            value={minPrice}
-            onChange={(e) => setMinPrice(parseInt(e.target.value) || 0)}
-            className="w-full border px-3 py-2 rounded"
-            placeholder="Min Price"
-          />
-        </div>
-
-        {/* Max Price */}
-        <div>
-          <label className="block text-sm font-medium mb-1">Max Price</label>
-          <input
-            type="number"
-            value={maxPrice}
-            onChange={(e) => setMaxPrice(parseInt(e.target.value) || 1500000)}
-            className="w-full border px-3 py-2 rounded"
-            placeholder="Max Price"
-          />
-        </div>
       </div>
 
-      {/* Show More Filters Button */}
+      {/* More Filters Toggle */}
       <div className="text-center my-6">
         <button
           onClick={() => setShowMoreFilters(!showMoreFilters)}
@@ -303,12 +371,8 @@ const HomePage = () => {
         </button>
       </div>
 
-      {/* Slide Down More Filters */}
-      <div
-        className={`overflow-hidden transition-all duration-500 ${
-          showMoreFilters ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"
-        }`}
-      >
+      {/* More Filters Section */}
+      <div className={`overflow-hidden transition-all duration-500 ${showMoreFilters ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"}`}>
         {showMoreFilters && (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
             {/* Deposit */}
@@ -319,22 +383,19 @@ const HomePage = () => {
                 value={deposit}
                 onChange={(e) => setDeposit(parseInt(e.target.value) || 0)}
                 className="w-full border px-3 py-2 rounded"
-                placeholder="Deposit"
               />
             </div>
 
             {/* Loan Term */}
             <div>
-              <label className="block text-sm font-medium mb-1">Loan Term (months)</label>
+              <label className="block text-sm font-medium mb-1">Loan Term</label>
               <select
                 value={loanTermMonths}
                 onChange={(e) => setLoanTermMonths(parseInt(e.target.value))}
                 className="w-full border px-3 py-2 rounded"
               >
                 {[12, 24, 36, 48, 60, 72].map((term) => (
-                  <option key={term} value={term}>
-                    {term} months
-                  </option>
+                  <option key={term} value={term}>{term} months</option>
                 ))}
               </select>
             </div>
@@ -356,7 +417,7 @@ const HomePage = () => {
 
             {/* Balloon Payment */}
             <div>
-              <label className="block text-sm font-medium mb-1">Balloon Payment (%)</label>
+              <label className="block text-sm font-medium mb-1">Balloon (%)</label>
               <input
                 type="range"
                 min="0"
@@ -367,30 +428,6 @@ const HomePage = () => {
                 className="w-full"
               />
               <p className="text-sm mt-1">{balloonPercentage}%</p>
-            </div>
-
-            {/* Min Monthly Payment */}
-            <div>
-              <label className="block text-sm font-medium mb-1">Min Monthly Payment</label>
-              <input
-                type="number"
-                value={minMonthly}
-                onChange={(e) => setMinMonthly(parseInt(e.target.value) || 0)}
-                className="w-full border px-3 py-2 rounded"
-                placeholder="Min Monthly"
-              />
-            </div>
-
-            {/* Max Monthly Payment */}
-            <div>
-              <label className="block text-sm font-medium mb-1">Max Monthly Payment</label>
-              <input
-                type="number"
-                value={maxMonthly}
-                onChange={(e) => setMaxMonthly(parseInt(e.target.value) || 30000)}
-                className="w-full border px-3 py-2 rounded"
-                placeholder="Max Monthly"
-              />
             </div>
           </div>
         )}
@@ -419,6 +456,40 @@ const HomePage = () => {
           );
         })}
       </div>
+      <section className="mt-12">
+  <h2 className="text-2xl font-semibold mb-4">Explore More</h2>
+  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+    
+    {/* Compare Vehicles */}
+    <Link href="/compare">
+      <Card className="hover:shadow-lg transition rounded-2xl">
+        <CardContent className="p-6 text-center">
+          <p className="text-lg font-semibold">Compare Vehicles</p>
+        </CardContent>
+      </Card>
+    </Link>
+
+    {/* Car Finance Calculator */}
+    <Link href="/tools/finance-calculator">
+      <Card className="hover:shadow-lg transition rounded-2xl">
+        <CardContent className="p-6 text-center">
+          <p className="text-lg font-semibold">Car Finance Calculator</p>
+        </CardContent>
+      </Card>
+    </Link>
+
+    {/* Sell Your Car */}
+    <Link href="/sell-your-car">
+      <Card className="hover:shadow-lg transition rounded-2xl">
+        <CardContent className="p-6 text-center">
+          <p className="text-lg font-semibold">Sell Your Car</p>
+        </CardContent>
+      </Card>
+    </Link>
+
+  </div>
+</section>
+
     </div>
   );
 };

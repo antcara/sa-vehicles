@@ -257,6 +257,29 @@ const HomePage = () => {
           </select>
         </div>
 
+        {/* Max Monthly Payment */}
+        <div>
+          <label className="block text-sm font-medium mb-1">Max Monthly Payment</label>
+          <select
+            value={maxMonthly}
+            onChange={(e) => setMaxMonthly(parseInt(e.target.value))}
+            className="w-full border px-3 py-2 rounded"
+          >
+            <option value={30000}>No Limit</option>
+            <option value={2000}>Up to R2 000</option>
+            <option value={3000}>Up to R3 000</option>
+            <option value={4000}>Up to R4 000</option>
+            <option value={5000}>Up to R5 000</option>
+            <option value={7000}>Up to R7 000</option>
+            <option value={10000}>Up to R10 000</option>
+            <option value={15000}>Up to R15 000</option>
+            <option value={20000}>Up to R20 000</option>
+            <option value={25000}>Up to R25 000</option>
+            <option value={30000}>Up to R30 000</option>
+          </select>
+        </div>
+
+
         {/* Reset Filters Button */}
         <div className="text-center my-2">
           <button

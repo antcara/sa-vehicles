@@ -27,8 +27,9 @@ function formatPrice(value: string | number): string {
   return numeric.toLocaleString("en-ZA");
 }
 
-function calculateMonthlyPayment(price: number, deposit: number, interestRate: number, termMonths: number, balloonPercentage: number): number {
-  const principal = price - deposit;
+function calculateMonthlyPayment(price, depositPercentage, interestRate, termMonths, balloonPercentage) {
+  const depositAmount = price * (depositPercentage / 100);
+  const principal = price - depositAmount;
   const balloon = principal * (balloonPercentage / 100);
   const loanAmount = principal - balloon;
   const monthlyInterest = interestRate / 100 / 12;
@@ -38,6 +39,12 @@ function calculateMonthlyPayment(price: number, deposit: number, interestRate: n
   const monthlyPayment = loanAmount * (monthlyInterest / (1 - Math.pow(1 + monthlyInterest, -termMonths)));
   return Math.round(monthlyPayment);
 }
+
+// Default finance parameters for card display
+const DEFAULT_DEPOSIT_PERCENTAGE = 10;
+const DEFAULT_BALLOON_PERCENTAGE = 40;
+const DEFAULT_LOAN_TERM_MONTHS = 72;
+const DEFAULT_INTEREST_RATE = 11;
 
 const HomePage = () => {
   const [hasMounted, setHasMounted] = useState(false);
@@ -62,10 +69,10 @@ const HomePage = () => {
   const [sortBy, setSortBy] = useState("");
 
   // Finance filters
-  const [deposit, setDeposit] = useState(0);
-  const [loanTermMonths, setLoanTermMonths] = useState(60);
+  const [depositPercentage, setDepositPercentage] = useState(DEFAULT_DEPOSIT_PERCENTAGE);
+  const [loanTermMonths, setLoanTermMonths] = useState(72);
   const [interestRate, setInterestRate] = useState(11);
-  const [balloonPercentage, setBalloonPercentage] = useState(0);
+  const [balloonPercentage, setBalloonPercentage] = useState(40);
   const [minMonthly, setMinMonthly] = useState(0);
   const [maxMonthly, setMaxMonthly] = useState(30000);
 
@@ -88,10 +95,10 @@ const HomePage = () => {
     setSelectedModel("");
     setMinPrice(0);
     setMaxPrice(1500000);
-    setDeposit(0);
-    setLoanTermMonths(60);
-    setInterestRate(11);
-    setBalloonPercentage(0);
+    setDepositPercentage(DEFAULT_DEPOSIT_PERCENTAGE);
+    setLoanTermMonths(DEFAULT_LOAN_TERM_MONTHS);
+    setInterestRate(DEFAULT_INTEREST_RATE);
+    setBalloonPercentage(DEFAULT_BALLOON_PERCENTAGE);
     setMinMonthly(0);
     setMaxMonthly(30000);
     setBodyTypeFilters([]);
@@ -138,10 +145,10 @@ const HomePage = () => {
         setMaxMonthly(30000);
         break;
       case "deposit":
-        setDeposit(0);
+        setDepositPercentage(DEFAULT_DEPOSIT_PERCENTAGE);
         break;
       case "balloon":
-        setBalloonPercentage(0);
+        setBalloonPercentage(DEFAULT_BALLOON_PERCENTAGE);
         break;
       default:
         break;
@@ -159,14 +166,14 @@ const HomePage = () => {
   if (minPrice > 0) activeFilters.push({ label: `Min R${minPrice.toLocaleString("en-ZA")}`, type: "minPrice" });
   if (maxPrice < 1500000) activeFilters.push({ label: `Max R${maxPrice.toLocaleString("en-ZA")}`, type: "maxPrice" });
   if (minMonthly > 0 || maxMonthly < 30000) activeFilters.push({ label: `Monthly R${minMonthly} - R${maxMonthly}`, type: "monthly" });
-  if (deposit > 0) activeFilters.push({ label: `Deposit R${deposit.toLocaleString("en-ZA")}`, type: "deposit" });
-  if (balloonPercentage > 0) activeFilters.push({ label: `Balloon ${balloonPercentage}%`, type: "balloon" });
+  if (depositPercentage !== DEFAULT_DEPOSIT_PERCENTAGE) activeFilters.push({ label: `Deposit ${depositPercentage}%`, type: "deposit" });
+  if (balloonPercentage !== DEFAULT_BALLOON_PERCENTAGE) activeFilters.push({ label: `Balloon ${balloonPercentage}%`, type: "balloon" });
 
   const filteredCars = carData
     .filter((car) => {
       const keyword = search.toLowerCase();
       const numericPrice = parsePrice(car.price);
-      const monthlyRepayment = calculateMonthlyPayment(numericPrice, deposit, interestRate, loanTermMonths, balloonPercentage);
+      const monthlyRepayment = calculateMonthlyPayment(numericPrice, depositPercentage, interestRate, loanTermMonths, balloonPercentage);
 
       return (
         (keyword === "" ||
@@ -420,15 +427,18 @@ const HomePage = () => {
               <div className={`overflow-hidden transition-all duration-500 ${showMoreFilters ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"}`}>
                 {showMoreFilters && (
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-                    {/* Deposit */}
+                    {/* Deposit Percentage Dropdown */}
                     <div>
-                      <label className="block text-sm font-medium mb-1">Deposit</label>
-                      <input
-                        type="number"
-                        value={deposit}
-                        onChange={(e) => setDeposit(parseInt(e.target.value) || 0)}
+                      <label className="block text-sm font-medium mb-1">Deposit Percentage</label>
+                      <select
+                        value={depositPercentage}
+                        onChange={(e) => setDepositPercentage(parseInt(e.target.value))}
                         className="w-full border px-3 py-2 rounded"
-                      />
+                      >
+                        {[0, 5, 10, 15, 20, 25, 30, 35, 40].map((percentage) => (
+                          <option key={percentage} value={percentage}>{percentage}%</option>
+                        ))}
+                      </select>
                     </div>
 
                     {/* Loan Term */}
@@ -498,7 +508,13 @@ const HomePage = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {displayCars.map((car, idx) => {
             const numericPrice = parsePrice(car.price);
-            const monthlyRepayment = calculateMonthlyPayment(numericPrice, deposit, interestRate, loanTermMonths, balloonPercentage);
+            const monthlyRepayment = calculateMonthlyPayment(
+              numericPrice,
+              depositPercentage,
+              interestRate,
+              loanTermMonths,
+              balloonPercentage
+            );
 
             return (
               <Link key={idx} href={`/cars/${car.brand}/${car.model}/${car.variantSlug}`}>
